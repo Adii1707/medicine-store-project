@@ -1,7 +1,8 @@
 import { Product_Reducer } from "./Product_Redux/product_reducer";
+import  {reducer as DiseasesReducer} from "./Diseases_Redux/reducer"
 import {combineReducers,legacy_createStore,applyMiddleware, compose } from "redux"
 const rootreducer=combineReducers({
-    productdata:Product_Reducer
+    productdata:Product_Reducer,DiseasesReducer
  })
  const customMiddleware=(store)=>(next)=>(action)=>{
     if(typeof action==="function"){

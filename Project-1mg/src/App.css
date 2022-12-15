@@ -1,0 +1,11 @@
+.App{
+    text-align: center;
+    /* background-color: black; */
+    
+}
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+   font-family: "Clear Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+}

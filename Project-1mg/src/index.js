@@ -1,18 +1,22 @@
-import { ColorModeScript } from '@chakra-ui/react';
-import React, { StrictMode } from 'react';
-import * as ReactDOM from 'react-dom/client';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
-import * as serviceWorker from './serviceWorker';
-
-const container = document.getElementById('root');
+import { ColorModeScript } from "@chakra-ui/react";
+import React, { StrictMode } from "react";
+import * as ReactDOM from "react-dom/client";
+import App from "./App";
+import reportWebVitals from "./reportWebVitals";
+import * as serviceWorker from "./serviceWorker";
+import { BrowserRouter } from "react-router-dom";
+import { store } from "./Redux/store";
+import { Provider } from "react-redux";
+const container = document.getElementById("root");
 const root = ReactDOM.createRoot(container);
 
 root.render(
-  <StrictMode>
+  <BrowserRouter>
     <ColorModeScript />
-    <App />
-  </StrictMode>
+    <Provider store={store}>
+      <App />
+    </Provider>
+  </BrowserRouter>
 );
 
 // If you want your app to work offline and load faster, you can change
@@ -24,3 +28,4 @@ serviceWorker.unregister();
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+

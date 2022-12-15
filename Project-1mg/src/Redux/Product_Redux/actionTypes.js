@@ -1,0 +1,4 @@
+const PRODUCT_LOADING="loading";
+const PRODUCT_SUCCESS="success";
+const PRODUCT_ERROR="error";
+export {PRODUCT_LOADING,PRODUCT_SUCCESS,PRODUCT_ERROR}

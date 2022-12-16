@@ -2,10 +2,11 @@ import { Button, Grid, Stack } from "@chakra-ui/react";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { DiseasesCard } from "../Components/DiSeasesComponents/DiseasesCard";
+import { MedicineCard } from "../Components/DiSeasesComponents/MedicineCard";
 import { getDiseasesData } from "../Redux/Diseases_Redux/action";
 
 
-const Diseases = () => {
+const Medicine = () => {
   const dispatch=useDispatch()
   const diseasesData=useSelector((store)=>{
    return store.DiseasesReducer.diseasesData
@@ -39,27 +40,27 @@ const Diseases = () => {
     "Y",
     "Z",
   ];
-  let url="https://json-mock-cp-cl1n.onrender.com/diseasesProduct_A"
+  let url="https://json-mock-cp-cl1n.onrender.com/medicineData_A"
   useEffect(()=>{
        dispatch(getDiseasesData(url))
   },[])
   const handleAdd=(item)=>{
     if(item=="A"){
      
-  let url="https://json-mock-cp-cl1n.onrender.com/diseasesProduct_A"
+  let url="https://json-mock-cp-cl1n.onrender.com/medicineData_A"
   dispatch(getDiseasesData(url))
    
     }
     else if(item=="B"){
-      let url="https://json-mock-cp-cl1n.onrender.com/diseasesProduct_B"
+      let url="https://json-mock-cp-cl1n.onrender.com/medicineData_B"
   dispatch(getDiseasesData(url))
     }
     else if(item=="C"){
-      let url="https://json-mock-cp-cl1n.onrender.com/diseasesProduct_C"
+      let url="https://json-mock-cp-cl1n.onrender.com/medicineData_C"
   dispatch(getDiseasesData(url))
     }
-  }
- // console.log(diseasesData)
+ }
+  console.log(diseasesData)
  
   return (
     <div>
@@ -71,8 +72,8 @@ const Diseases = () => {
         variant="outline"
         width="100%"
         margin="auto"
-        marginLeft="40px"
         marginTop="15px"
+        marginLeft="40px"
       >
         {arr.length > 0 &&
           arr.map((item,index) => {
@@ -93,16 +94,15 @@ const Diseases = () => {
           })}
       </Stack>
       <Grid templateColumns={{sm:"repeat(1, 1fr)",md:'repeat(2, 1fr)',lg:'repeat(3, 1fr)'}} gap={3} marginTop="30px">
+   
   
 
    {diseasesData.length>0&&diseasesData.map((el,index)=>{
-
-    return (<DiseasesCard key={index} id={index} el={el} />)
-    
+    return (<MedicineCard key={index} id={index} el={el} />)
    })}
    </Grid>
     </div>
   );
 };
 
-export { Diseases };
+export { Medicine };

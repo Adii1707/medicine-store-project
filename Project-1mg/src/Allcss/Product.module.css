@@ -1,139 +1,163 @@
-.parent {
-  height: 368px;
-  width: 1080px;
-  margin: 10px 0px 0px 0px;
-  min-height: 150px;
-  text-align: left;
-}
-.all {
-  background-color: white;
-  box-shadow: 0 0 7px 0 rgb(0 0 0 / 14%);
-}
-.boxshadow {
-  box-shadow: 0 0 7px 0 rgb(0 0 0 / 14%);
-}
-.innerdiv {
-  width: 95%;
-  margin: auto;
-  height: 100%;
-}
-.divs {
-  height: 368px;
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-}
-.divs1 {
-  height: 368px;
-  width: 100%;
-
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-}
-.innerdivs:hover {
-  box-shadow: 0 0 7px 0 rgb(0 0 0 / 14%);
-}
-.innerdivs {
-  padding: 5px 15px 5px 15px;
-  cursor: pointer;
-  height: 100%;
-}
-.main {
-  background-color: rgb(238, 234, 234);
-}
-.image {
-  height: 165px;
-  width: 100%;
-  margin: 10px 0px 10px 0px;
-
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-.name {
-  font-size: 14px;
-  color: #212121;
-  margin-bottom: 3px;
-  height: 44px;
-  word-wrap: break-word;
-  overflow: hidden;
-  white-space: normal;
-  text-overflow: ellipsis;
-  /* border: 1px solid red; */
-  text-align: left;
-  font-weight: 400;
-}
-.description {
-  font-size: 12px;
-  line-height: 17px;
-  text-decoration: none solid rgb(117, 117, 117);
-  color: #757575;
-  text-align: left;
-}
-.rating {
-  display: inline-block;
-  font-size: 12px;
-  color: #fff;
-
-  text-align: left;
-}
-.rating1 {
-  background-color: rgb(26, 171, 42);
-  border-radius: 2px;
-  display: inline-flex;
-  align-items: center;
-  padding: 1px 7px;
-  cursor: pointer;
-  position: relative;
-  margin-right: 5px;
-}
-.rating2 {
-  display: inline-block;
-  color: rgba(0, 0, 0, 0.58);
-  margin-right: 5px;
-  vertical-align: middle;
-  cursor: pointer;
-}
-.price {
-  margin-right: 5px;
-  text-decoration: line-through;
-  display: inline-block;
-  font-size: 12px;
-  color: #757575;
-}
-.off {
-  color: rgb(26, 171, 42);
-  font-weight: 500;
-}
-.realprice {
-  display: inline-block;
-  font-size: 16px;
-  color: #212121;
-}
-.button {
-  color: #ff6f61;
-  font-size: 14px;
-}
-.grid {
-  width: 100%;
-}
-.productdivs {
-  width: 100%;
-}
-.topdeals {
-  width: 1080px;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.button {
-  padding: 5px 10px !important;
-  height: 1.7rem;
-  font-size: 0.75rem;
-  font-weight: 700;
-}
-.text {
-  font-size: 18px;
-  color: #212121;
-}
+/* .shadow{
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
+} */
+.category{
+   
+        /* Font & Text */
+        
+        font-family: "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        font-style: normal;
+        font-variant: normal;
+        font-weight: 400;
+        letter-spacing: normal;
+        line-height: 22.8571px;
+        text-decoration: none solid rgb(102, 102, 102);
+        text-align: start;
+        text-indent: 0px;
+        text-transform: none;
+        vertical-align: baseline;
+        white-space: normal;
+        word-spacing: 0px;
+    
+        /* Color & Background */
+        background-attachment: scroll;
+        background-color: rgb(255, 255, 255);
+        background-image: none;
+        background-position: 0% 0%;
+        background-repeat: repeat;
+        color: rgb(102, 102, 102);
+    
+        /* Box */
+        height: 310.844px;
+        width: 1061.66px;
+        border: 0px none rgb(102, 102, 102);
+        border-top: 0px none rgb(102, 102, 102);
+        border-right: 0px none rgb(102, 102, 102);
+        border-bottom: 0px none rgb(102, 102, 102);
+        border-left: 0px none rgb(102, 102, 102);
+        margin: 10px 0px 0px;
+        padding: 0px;
+        max-height: none;
+        min-height: 150px;
+        max-width: none;
+        min-width: 0px;
+    
+        /* Positioning */
+        position: static;
+        top: auto;
+        bottom: auto;
+        right: auto;
+        left: auto;
+        float: none;
+        display: inline-block;
+        clear: none;
+        z-index: auto;
+    
+        /* List */
+        list-style-image: none;
+        list-style-type: disc;
+        list-style-position: outside;
+    
+        /* Table */
+        border-collapse: separate;
+        border-spacing: 0px 0px;
+        caption-side: top;
+        empty-cells: show;
+        table-layout: auto;
+    
+        /* Miscellaneous */
+        overflow: visible;
+        cursor: auto;
+        visibility: visible;
+    
+        /* Effects */
+        transform: none;
+        transition: all 0s ease 0s;
+        /* outline: rgb(255, 0, 0) dashed 1px; */
+        outline-offset: 0px;
+        box-sizing: border-box;
+        resize: none;
+        text-shadow: none;
+        text-overflow: clip;
+        word-wrap: normal;
+        box-shadow: rgba(0, 0, 0, 0.14) 0px 0px 7px 0px;
+        border-top-left-radius: 0px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 0px;
+    }
+    .parent{
+        height: 50vw;
+        border: 1px solid black;
+        width: 100%;
+    }
+    .productsouter{
+        max-width: 1000px;
+        margin: 0 auto;
+        font-size: 16px;
+        /* visibility: visible!important; */
+        min-height: 210px;
+    min-width: 300px;
+    line-height: 1.42857143;
+    color: #333;
+    }
+    .name{
+        color: #212121;
+    font-size: 14px;
+    margin-bottom: 3px;
+    word-wrap: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    max-height: 3em;
+    width: 93%;
+    margin: auto;
+    }
+    .all{
+        width: 93%;
+    margin: auto;
+    }
+    .description{
+        font-size: 12px;
+    color: #757575;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 100%;
+    overflow: hidden;
+    margin-top:5px;
+    }
+    .rating{
+        display: inline-block;
+        font-size: 12px;
+    }
+    .rating1{
+        background-color: rgb(26, 171, 42);
+    color: #fff;
+    font-size: 12px;
+    border-radius: 2px;
+    display: inline-flex;
+    align-items: center;
+    padding: 1px 5px;
+    cursor: pointer;
+    position: relative;
+    margin-right: 5px;
+    }
+    .rating2{
+        display: inline-block;
+        color: rgba(0,0,0,.58);
+        margin-right: 5px;
+        vertical-align: middle;
+        cursor: pointer;
+    }
+    .cutprice{
+        text-decoration: line-through;
+    }
+    .mainall{
+        display: block;
+    width: 150px;
+    overflow: hidden;
+    text-align: left;
+    }

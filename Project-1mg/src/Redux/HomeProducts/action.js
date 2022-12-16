@@ -14,10 +14,10 @@ export const getDataFailure = () => {
   return { type: types.GET_DATA_FAILURE };
 };
 
-export const getData = () => (dispatch) => {
+export const getData = (url) => (dispatch) => {
   dispatch(getDataRequest());
   return axios
-    .get("https://json-mock-cp-cl1n.onrender.com/products")
+    .get(url)
     .then((res) => {
       console.log(res.data);
       dispatch(getDataSuccess(res.data));

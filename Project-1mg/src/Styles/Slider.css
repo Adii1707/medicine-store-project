@@ -12,3 +12,8 @@
 .homeSlider{
     width: 95%;
 }
+
+.slick-arrow {
+    background-color:rgb(216, 210, 210);
+    border-radius: 50%;
+}

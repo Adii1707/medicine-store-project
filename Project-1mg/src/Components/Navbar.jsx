@@ -95,7 +95,6 @@ export const Navbar = () => {
               lineHeight="14px"
               textAlign=""
               border="none"
-              value="New Delhi"
             />
             <Box ml="5px">
               <Image
@@ -121,7 +120,6 @@ export const Navbar = () => {
               lineHeight="21px"
               textAlign=""
               border="none"
-              value=""
               placeholder="Search for Medicines and Health Product"
             />
             <Box ml="20px">

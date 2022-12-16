@@ -1,26 +1,12 @@
 import {
   ChakraProvider,
   Box,
-  Image,
-  Heading,
-  Button,
-  Text,
   Flex,
   Link,
-  VStack,
-  Input,
-  Code,
   Grid,
-  theme,
-  background,
   Menu,
   MenuButton,
   MenuList,
-  MenuItem,
-  MenuItemOption,
-  MenuGroup,
-  MenuOptionGroup,
-  MenuDivider,
 } from "@chakra-ui/react";
 
 import { ChevronDownIcon } from '@chakra-ui/icons'

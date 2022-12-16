@@ -1,3 +1,4 @@
+
 import { PRODUCT_LOADING, PRODUCT_SUCCESS, PRODUCT_ERROR } from "./actionTypes";
 import axios from "axios";
 
@@ -32,3 +33,4 @@ const getdata = (url) => (dispatch) => {
     });
 };
 export { LOADING, SUCCESS, ERROR, getdata };
+

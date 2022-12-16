@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from "react";
 import Productpage1 from "../Pages/Productpage1";
 import { Routes, Route } from "react-router-dom";
@@ -12,3 +13,24 @@ export const AllRoutes = () => {
     </div>
   );
 };
+=======
+import React from 'react';
+//import { Link, Route, Routes } from "react-router-dom";
+import {Routes, Route} from "react-router-dom";
+import { AddProduct } from '../Admin/AddProduct';
+import { Admin } from '../Admin/Admin';
+import { EditProduct } from '../Admin/EditProduct';
+import { Home } from '../Pages/Home';
+
+export const AllRoutes = () => {
+  return (
+    <Routes>
+     <Route path="/" element={<Home></Home>}  />
+     <Route path="/Admin" element={<Admin></Admin>}  />
+     <Route path="/add" element={<AddProduct></AddProduct>} />
+     <Route path="/edit:id" element={<EditProduct></EditProduct>} />
+
+    </Routes>
+  )
+}
+>>>>>>> main

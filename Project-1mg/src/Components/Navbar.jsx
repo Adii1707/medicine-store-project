@@ -21,7 +21,7 @@ import {
 
 export const Navbar = () => {
   return (
-    <Box fontFamily="Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif">
+    <Box fontFamily="Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif" bgColor="white" >
       <Flex
         w="100%"
         h="47px"
@@ -35,9 +35,9 @@ export const Navbar = () => {
         </Box>
 
         <Flex w="55%" h="80%" justifyContent="space-around" alignItems="center">
-          {navLinks.map((elem) => {
+          {navLinks.map((elem, index) => {
             return (
-              <Flex h="20px" alignItems="center">
+              <Flex key={index} h="20px" alignItems="center">
                 <Link fontSize="16px" fontWeight="bold" _hover={{ color: "#FF6F61" }}>
                  {elem.title}
                 </Link>

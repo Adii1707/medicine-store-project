@@ -27,7 +27,7 @@ import { ChevronDownIcon } from '@chakra-ui/icons'
 
 const Menues = () => {
   return (
-    <Box mt="11px">
+    <Box pt="11px" bgColor="white" >
       <Flex m="auto" w="95%"  justifyContent="space-around" >
         <Menu >
           <MenuButton rightIcon={<ChevronDownIcon />} fontSize="14px" _hover={{ color: "#FF6F61" }} >

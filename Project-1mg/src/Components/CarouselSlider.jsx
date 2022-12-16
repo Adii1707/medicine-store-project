@@ -1,9 +1,25 @@
 import React, { Component } from "react";
 import Slider from "react-slick";
-import {Image} from "@chakra-ui/react";
+import {
+  ChakraProvider,
+  Box,
+  Image,
+  Heading,
+  Button,
+  Text,
+  Flex,
+  Link,
+  VStack,
+  Input,
+  Code,
+  Grid,
+  theme,
+} from "@chakra-ui/react";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "../Styles/Navbar.css";
+import "../Styles/Slider.css";
+import {sliderImage} from "../Data/Data";
+
 
 export default class Responsive extends Component {
   render() {
@@ -42,35 +58,28 @@ export default class Responsive extends Component {
       ],
     };
     return (
-      <div>
-        <h2> Responsive </h2>
-        <Slider {...settings} style={{border:"1px solid black", width:"300px" }} >
-          <div>
-            <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-          <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-          <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-          <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-          <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-          <Image w="300px" src ="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg" />
-          </div>
-          <div>
-            <h3>7</h3>
-          </div>
-          <div>
-            <h3>8</h3>
-          </div>
-        </Slider>
-      </div>
+      <Box bgColor="white" >
+        <Flex pt="7px" gap="0px" borderBottom="2px solid #E0E0E0">
+          <Slider className="slider" {...settings}>
+            {sliderImage.map((elem, index) => {
+              return (
+                <Box key={index}>
+                  <Image cursor="pointer" h="203px" src={elem} />
+                </Box>
+              );
+            })}
+          </Slider>
+          <Box>
+            <Image cursor="pointer" h="203px" src="https://onemg.gumlet.io/a_ignore,w_480,h_200,c_fit,q_auto,f_auto/16bfcc2c-7f57-4571-a29e-d69b0af564c8.png" />
+          </Box>
+        </Flex>
+        <Flex borderBottom="2px solid #E0E0E0" h ="87px" alignItems="center" justifyContent="center" >
+          <Text fontFamily= "Helvetica Neue" color="#666666" fontSize="22px" textAlign="center" >Tata 1mg: India’s Leading Online Pharmacy & Healthcare Platform</Text>
+        </Flex>
+        <Flex p="30px 40px" alignItems="center" justifyContent="center" bgColor="#F6F6F6" >
+          <Image cursor="pointer" src="https://onemg.gumlet.io/image/upload/v1647251796/ueyxzzku83yuvpqxyrwe.png" alt="image" />
+        </Flex>
+      </Box>
     );
   }
 }

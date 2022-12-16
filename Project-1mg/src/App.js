@@ -13,6 +13,7 @@ import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { Logo } from './Logo';
 import { AllRoutes } from './Routes/AllRoutes';
 import Home from './Pages/Home';
+import "./App.css"
 
 function App() {
   return (

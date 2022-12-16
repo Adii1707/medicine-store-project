@@ -18,6 +18,10 @@ const Product_genericItems = ({
   widthdata,
   loading
 }) => {
+  const [isLoaded, setIsLoaded] = React.useState(false)
+  setTimeout(() => {
+    setIsLoaded(true)
+  }, 2000);
   return (
     index < productlist && (
       
@@ -26,7 +30,7 @@ const Product_genericItems = ({
         width={widthdata === true ? "16%" : "null"}
         backgroundColor="white"
       >
-        {/* <Skeleton loading> */}
+        <Skeleton isLoaded={isLoaded}>
         <Box className={Styles.image}>
           {<Image src={images} alt="no image" />}
         </Box>
@@ -63,7 +67,7 @@ const Product_genericItems = ({
           </Box>
           <button className={Styles.button}>ADD</button>
         </Box>
-        {/* </Skeleton> */}
+        </Skeleton>
         </Box>
 
       )

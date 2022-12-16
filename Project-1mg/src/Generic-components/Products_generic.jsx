@@ -19,9 +19,9 @@ const loading=useSelector((store) => store.productdata.productloading);
   function handleClick() {
     dispatch(getdata("https://json-mock-cp-cl1n.onrender.com/top-deals"));
   }
-  if(productall.productloading){
-    return <h1>...Loading</h1>
-  }
+  // if(productall.productloading){
+  //   return <h1>...Loading</h1>
+  // }
   if(productall.producterror){
     return <h1>...Error</h1>
   }

@@ -145,8 +145,1065 @@
      "image":"https://onemg.gumlet.io/a_ignore,w_64,h_64,q_auto,f_auto/gvx9xcbdt6uypnou98ir.png",
       "title":"Constipation",
       "desc" :"Constipation is a common health problem that causes difficulty in passing stools ..."
-    }] 
-  
+    }] ,
+
+
+
+
+
+
+
+
+
+  "medicineData_A":[
+    
+      {
+        "button-text href": "https://www.1mg.com/drugs/augmentin-625-duo-tablet-138629",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/eluna27m2ptghojxlawz.png",
+        "title": "Augmentin 625 Duo Tablet",
+        "price": "₹223.42",
+        "title2": "strip of 10 tablets",
+        "title3": "Glaxo SmithKline Pharmaceuticals Ltd",
+        "title4": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ascoril-ls-syrup-63412",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ruma122iif8yx1nwhpfe.jpg",
+        "title": "Ascoril LS Syrup",
+        "price": "₹118",
+        "title2": "bottle of 100 ml Syrup",
+        "title3": "Glenmark Pharmaceuticals Ltd",
+        "title4": "Ambroxol (30mg/5ml) + Levosalbutamol (1mg/5ml) + Guaifenesin (50mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/azithral-500-tablet-325616",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gbliwoki0x2rzz6ipnz9.jpg",
+        "title": "Azithral 500 Tablet",
+        "price": "₹132.36",
+        "title2": "strip of 5 tablets",
+        "title3": "Alembic Pharmaceuticals Ltd",
+        "title4": "Azithromycin (500mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/allegra-120mg-tablet-68763",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/72cfa26ecaf14e7f8285525d3ffe61f3.jpg",
+        "title": "Allegra 120mg Tablet",
+        "price": "₹218.81",
+        "title2": "strip of 10 tablets",
+        "title3": "Sanofi India  Ltd",
+        "title4": "Fexofenadine (120mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ascoril-d-plus-syrup-sugar-free-184611",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/la9aelaydysxuaizrcd5.jpg",
+        "title": "Ascoril D Plus Syrup Sugar Free",
+        "price": "₹129",
+        "title2": "bottle of 100 ml Syrup",
+        "title3": "Glenmark Pharmaceuticals Ltd",
+        "title4": "Phenylephrine (5mg) + Chlorpheniramine Maleate (2mg) + Dextromethorphan Hydrobromide (10mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/allegra-m-tablet-9172",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/reypogwmuwm3tqt3l8yq.jpg",
+        "title": "Allegra-M Tablet",
+        "price": "₹251.3",
+        "title2": "strip of 10 tablets",
+        "title3": "Sanofi India  Ltd",
+        "title4": "Montelukast (10mg) + Fexofenadine (120mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/azee-500-tablet-324155",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/isxuezdzbz8a5mi2jcmw.jpg",
+        "title": "Azee 500 Tablet",
+        "price": "₹132.38",
+        "title2": "strip of 5 tablets",
+        "title3": "Cipla Ltd",
+        "title4": "Azithromycin (500mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/atarax-25mg-tablet-228160",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ea0seoqvuvbylykjwb4g.jpg",
+        "title": "Atarax 25mg Tablet",
+        "price": "₹85.5",
+        "title2": "strip of 15 tablets",
+        "title3": "Dr Reddy's Laboratories Ltd",
+        "title4": "Hydroxyzine (25mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/arkamin-tablet-330260",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/azshjseewgrghgoo3jzl.jpg",
+        "title": "Arkamin Tablet",
+        "price": "₹72.65",
+        "title2": "strip of 30 tablets",
+        "title3": "Torrent Pharmaceuticals Ltd",
+        "title4": "Clonidine (100mcg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/alex-syrup-63175",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pham6qafha8bqpq6j0jy.jpg",
+        "title": "Alex Syrup",
+        "price": "₹129",
+        "title2": "bottle of 100 ml Syrup",
+        "title3": "Glenmark Pharmaceuticals Ltd",
+        "title4": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/avil-25-tablet-69629",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rm5eel4umeiitnk1oggl.jpg",
+        "title": "Avil 25 Tablet",
+        "price": "₹10.97",
+        "title2": "strip of 15 tablets",
+        "title3": "Sanofi India  Ltd",
+        "title4": "Pheniramine (25mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/asthakind-dx-syrup-sugar-free-149334",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ggfmxw9cxcghbxpxhgkz.jpg",
+        "title": "Asthakind-DX Syrup Sugar Free",
+        "price": "₹70.4",
+        "title2": "bottle of 60 ml Syrup",
+        "title3": "Mankind Pharma Ltd",
+        "title4": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (15mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/amoxyclav-625-tablet-491614",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uicdp4ef3wunqoeo6ekx.jpg",
+        "title": "Amoxyclav 625 Tablet",
+        "price": "₹223.27",
+        "title2": "strip of 10 tablets",
+        "title3": "Abbott",
+        "title4": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ambrodil-s-syrup-161343",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zttzpu31uai1qa2uugye.jpg",
+        "title": "Ambrodil-S Syrup",
+        "price": "₹33.05",
+        "title2": "bottle of 100 ml Syrup",
+        "title3": "Aristo Pharmaceuticals Pvt Ltd",
+        "title4": "Ambroxol (15mg/5ml) + Salbutamol (1mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/avomine-tablet-28784",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qrm9ovvuriq5ejtpg6rh.jpg",
+        "title": "Avomine Tablet",
+        "price": "₹55.98",
+        "title2": "strip of 10 tablets",
+        "title3": "Abbott",
+        "title4": "Promethazine (25mg)",
+        "style__interaction___3cb12": ""
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/aldactone-tablet-116839",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wxjxsugwqsf4khtkerag.jpg",
+        "title": "Aldactone Tablet",
+        "price": "₹35.35",
+        "title2": "strip of 15 tablets",
+        "title3": "RPG Life Sciences Ltd",
+        "title4": "Spironolactone (25mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/augmentin-duo-oral-suspension-324979",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jkxdngoylqkp5x62kawy.jpg",
+        "title": "Augmentin Duo Oral Suspension",
+        "price": "₹67.2",
+        "title2": "bottle of 30 ml Oral Suspension",
+        "title3": "Glaxo SmithKline Pharmaceuticals Ltd",
+        "title4": "Amoxycillin  (200mg) +  Clavulanic Acid (28.5mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/axcer-90mg-tablet-324040",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xewhk7iu0vmvlqmk1oha.jpg",
+        "title": "Axcer  90mg Tablet",
+        "price": "₹420",
+        "title2": "strip of 14 tablets",
+        "title3": "Sun Pharmaceutical Industries Ltd",
+        "title4": "Ticagrelor (90mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/anovate-cream-63345",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hbpfkdeafbynmeh8kovy.jpg",
+        "title": "Anovate Cream",
+        "price": "₹134.2",
+        "title2": "tube of 20 gm Cream",
+        "title3": "USV Ltd",
+        "title4": "Phenylephrine (0.10% w/w) + Beclometasone (0.025% w/w) + Lidocaine (2.50% w/w)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/altraday-capsule-sr-63221",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/tqux8ccp05qx3npvxex9.jpg",
+        "title": "Altraday Capsule SR",
+        "price": "₹128",
+        "title2": "strip of 10 capsule sr",
+        "title3": "Sun Pharmaceutical Industries Ltd",
+        "title4": "Aceclofenac (200mg) + Rabeprazole (20mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/aciloc-150-tablet-134660",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ogfwolxtutjau5qgmqth.jpg",
+        "title": "Aciloc 150 Tablet",
+        "price": "₹40.94",
+        "title2": "strip of 30 tablets",
+        "title3": "Cadila Pharmaceuticals Ltd",
+        "title4": "Ranitidine (150mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/amlokind-at-tablet-648536",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pbpz7oquqyggsdyvw4h5.png",
+        "title": "Amlokind-AT Tablet",
+        "price": "₹44.7",
+        "title2": "strip of 15 tablets",
+        "title3": "Mankind Pharma Ltd",
+        "title4": "Amlodipine (5mg) + Atenolol (50mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/allegra-180mg-tablet-9187",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bda909963ad0474cac331f6f9247a284.jpg",
+        "title": "Allegra 180mg Tablet",
+        "price": "₹251.2",
+        "title2": "strip of 10 tablets",
+        "title3": "Sanofi India  Ltd",
+        "title4": "Fexofenadine (180mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/asthalin-100mcg-inhaler-141944",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/bznpbcdsc9ae6rw5er6k.jpg",
+        "title": "Asthalin 100mcg Inhaler",
+        "price": "₹157.85",
+        "title2": "packet of 200 MDI Inhaler",
+        "title3": "Cipla Ltd",
+        "title4": "Salbutamol (100mcg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ativan-2mg-tablet-236513",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+        "title": "Ativan 2mg Tablet",
+        "price": "₹91.87",
+        "title2": "strip of 30 tablets",
+        "title3": "Pfizer Ltd",
+        "title4": "Lorazepam (2mg)",
+        "style__interaction___3cb12": ""
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ascoril-ls-junior-syrup-340445",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/exek7p354rrqgtlbjwp0.jpg",
+        "title": "Ascoril LS Junior Syrup",
+        "price": "₹96",
+        "title2": "bottle of 60 ml Syrup",
+        "title3": "Glenmark Pharmaceuticals Ltd",
+        "title4": "Ambroxol (15mg/5ml) + Levosalbutamol (0.5mg/5ml) + Guaifenesin (50mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/aciloc-rd-20-tablet-643918",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/epbgofppoky6cermgzyx.png",
+        "title": "Aciloc RD 20 Tablet",
+        "price": "₹77",
+        "title2": "strip of 15 tablets",
+        "title3": "Cadila Pharmaceuticals Ltd",
+        "title4": "Domperidone (10mg) + Omeprazole (20mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/azmarda-50mg-tablet-345285",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c9e40e6c-ceed-472d-9bff-064154962c85.png",
+        "title": "Azmarda 50mg Tablet",
+        "price": "₹1092.03",
+        "title2": "strip of 14 tablets",
+        "title3": "J B Chemicals and Pharmaceuticals Ltd",
+        "title4": "Sacubitril (24mg) + Valsartan (26mg)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/augmentin-dds-suspension-63460",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cxzzuthiua0ym7s3ppb5.jpg",
+        "title": "Augmentin DDS Suspension",
+        "price": "₹173",
+        "title2": "bottle of 30 ml Oral Suspension",
+        "title3": "Glaxo SmithKline Pharmaceuticals Ltd",
+        "title4": "Amoxycillin  (400mg/5ml) +  Clavulanic Acid (57mg/5ml)",
+        "style__interaction___3cb12": "ADD"
+      },
+      {
+        "button-text href": "https://www.1mg.com/drugs/ativan-1mg-tablet-322827",
+        "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+        "title": "Ativan 1mg Tablet",
+        "price": "₹75.67",
+        "title2": "strip of 30 tablets",
+        "title3": "Pfizer Ltd",
+        "title4": "Lorazepam (1mg)",
+        "style__interaction___3cb12": ""
+      }
+     
+        
+  ],
+   
+
+
+
+
+
+
+    "medicineData_B":[
+
+      
+        {
+          "button-text href": "https://www.1mg.com/drugs/budecort-0.5mg-respules-2ml-351796",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lzupbnuthjghpr2yzjnh.jpg",
+          "title": "Budecort 0.5mg Respules 2ml",
+          
+          "price": "₹132.3",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "packet of 5 respules",
+          "title4": "Cipla Ltd",
+          "title41": "Budesonide (0.5mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/brilinta-90mg-tablet-119687",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/836316f362244d59ac8f943a8811d07c.jpg",
+          "title": "Brilinta 90mg Tablet",
+          "price": "₹450",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 14 tablets",
+          "title4": "AstraZeneca",
+          "title5": "Ticagrelor (90mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bro-zedex-syrup-180516",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qpoyv5qsb1wivuftbggf.jpg",
+          "title": "Bro-Zedex Syrup",
+          "price": "₹142.5",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 100 ml Syrup",
+          "title4": "Dr Reddy's Laboratories Ltd",
+          "title41": "Bromhexine (4mg) + Guaifenesin (50mg) + Menthol (2.5mg) + Terbutaline (1.25mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/benadryl-syrup-114690",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vmhgxvg9ahh6tcx3cphb.jpg",
+          "title": "Benadryl Syrup",
+          "price": "₹141",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 150 ml Syrup",
+          "title4": "Johnson & Johnson Ltd",
+          "title41": "Diphenhydramine (14.08mg/5ml) + Ammonium Chloride (138mg/5ml) + Sodium Citrate (57.03mg/5ml)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bilasure-m-20mg-10mg-tablet-623647",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/z6qyi9pa1uillb52et3r.jpg",
+          "title": "Bilasure M 20mg/10mg Tablet",
+          "price": "₹172",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "title41": "Bilastine (20mg) + Montelukast (10mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bandy-plus-chewable-tablet-68909",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nhjcjbagi2pftfmspwbr.jpg",
+          "title": "Bandy-Plus Chewable Tablet",
+          "price": "₹27",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 1 Chewable Tablet",
+          "title4": "Mankind Pharma Ltd",
+          "title41": "Ivermectin  (6mg) +  Albendazole (400mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnesol-tablet-70138",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jkfuswdj9kou8amwl866.jpg",
+          "title": "Betnesol Tablet",
+          "price": "₹14.1",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 20 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (0.5mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/buscopan-10mg-tablet-400562",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "title": "Buscopan 10mg Tablet",
+          "price": "₹39.5",
+          "title2 src": "",
+          "title2": "",
+          "title3": "strip of 10 tablets",
+          "title4": "Zydus Cadila",
+          "title41": "Hyoscine butylbromide (10mg)",
+          "style__interaction___3cb12": ""
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnovate-n-cream-651249",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ox33iprumohgtqtwpf6o.png",
+          "title": "Betnovate-N  Cream",
+          "price": "₹50.3",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "tube of 25 gm Cream",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (0.1% w/w) + Neomycin (0.5% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnovate-c-cream-149634",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/jshf0zrxvfrd7q45wn89.jpg",
+          "title": "Betnovate-C Cream",
+          "price": "₹58.6",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "tube of 30 gm Cream",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (0.1% w/w) + Clioquinol (Iodochlorhydroxyquin) (3% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/brufen-400-tablet-70206",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vnon1e0kiinmhqwgk12u.jpg",
+          "title": "Brufen 400 Tablet",
+          "price": "₹19.32",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 15 tablets",
+          "title4": "Abbott",
+          "title41": "Ibuprofen (400mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bilypsa-tablet-349283",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ljwbrazjime6vy3gisrm.jpg",
+          "title": "Bilypsa Tablet",
+          "price": "₹1808",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "box of 45 tablets",
+          "title4": "Zydus Cadila",
+          "title41": "Saroglitazar (4mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betacap-tr-40-capsule-28883",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cirdzc8jooadogsgetnp.jpg",
+          "title": "Betacap TR 40 Capsule",
+          "price": "₹47.25",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 capsule pr",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "title41": "Propranolol (40mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/banocide-forte-tablet-165789",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wpac9zqyrapfcqcjbuie.jpg",
+          "title": "Banocide Forte Tablet",
+          "price": "₹51.95",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 30 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Diethylcarbamazine (100mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betadine-10-ointment-616166",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/akwnavra5bco01snl9ap.png",
+          "title": "Betadine 10% Ointment",
+          "price": "₹139.47",
+          "title2 src": "",
+          "title2": "",
+          "title3": "tube of 20 gm Ointment",
+          "title4": "Win-Medicare Pvt Ltd",
+          "title41": "Povidone Iodine (10% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnovate-cream-13631",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/Betnovate_0.1_Cream-20.0gm-tube-1.jpg",
+          "title": "Betnovate Cream",
+          "price": "₹20.81",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "tube of 20 gm Cream",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (0.1% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bactrim-ds-tablet-120037",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "title": "Bactrim DS Tablet",
+          "price": "₹25.14",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Abbott",
+          "title41": "Sulfamethoxazole (800mg) + Trimethoprim (160mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/bilashine-tablet-528291",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/houuiay6xfekj4petbyl.jpg",
+          "title": "Bilashine Tablet",
+          "price": "₹127",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "title41": "Bilastine (20mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betaloc-25mg-tablet-70130",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a008994a3e4a4ba6bb3f3c8ea3acb250.jpg",
+          "title": "Betaloc 25mg Tablet",
+          "price": "₹109.5",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 30 tablets",
+          "title4": "AstraZeneca",
+          "title41": "Metoprolol Tartrate (25mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/broclear-tablet-323782",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/adwtqoazpp2s06tzi1wy.jpg",
+          "title": "Broclear Tablet",
+          "price": "₹209",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Intas Pharmaceuticals Ltd",
+          "title41": "Acebrophylline (100mg) + Acetylcysteine (600mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betadine-2-gargle-mint-322922",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/baqlbagprmjrnwbnafrb.jpg",
+          "title": "Betadine 2% Gargle Mint",
+          "price": "₹153.5",
+          "title2 src": "",
+          "title2": "",
+          "title3": "bottle of 50 ml Gargle",
+          "title4": "Win-Medicare Pvt Ltd",
+          "title41": "Povidone Iodine (2% w/v)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/benzac-ac-2.5-gel-678551",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ixkeylkpuki25xikwifn.png",
+          "title": "Benzac AC 2.5% Gel",
+          "price": "₹137.3",
+          "title2 src": "",
+          "title2": "",
+          "title3": "tube of 30 gm Gel",
+          "title4": "Galderma India Pvt Ltd",
+          "title41": "Benzoyl Peroxide (2.5% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/brevipil-50-tablet-640116",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lpmvsxejwvlfmy23ezpy.jpg",
+          "title": "Brevipil 50 Tablet",
+          "price": "₹161",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "title41": "Brivaracetam (50mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betadine-10-solution-182348",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/civy1x8sfxg5xmtq7zlz.jpg",
+          "title": "Betadine 10% Solution",
+          "price": "₹115.36",
+          "title2 src": "",
+          "title2": "",
+          "title3": "bottle of 100 ml Solution",
+          "title4": "Win-Medicare Pvt Ltd",
+          "title41": "Povidone Iodine (10% w/v)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/baclof-10-tablet-48246",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dgcoche6tasmzinji4fy.jpg",
+          "title": "Baclof 10 Tablet",
+          "price": "₹125.37",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Intas Pharmaceuticals Ltd",
+          "title41": "Baclofen (10mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/benadryl-dr-syrup-90438",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ui40vh5wyujqysny8dye.jpg",
+          "title": "Benadryl DR Syrup",
+          "price": "₹123",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 100 ml Syrup",
+          "title4": "Johnson & Johnson Ltd",
+          "title41": "Dextromethorphan Hydrobromide (15mg/5ml)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/budesal-0.5mg-respules-2ml-367591",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hx2gxivwmeoxxxsc1hix.png",
+          "title": "Budesal 0.5mg Respules 2ml",
+          "price": "₹219.6",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "packet of 5 respules",
+          "title4": "Cipla Ltd",
+          "title41": "Levosalbutamol (1.25mg) + Budesonide (0.5mg)",
+          "style__interaction___3cb12": ""
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/budamate-200-transhaler-135996",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ozxjibk1moebmanvh42q.jpg",
+          "title": "Budamate 200 Transhaler",
+          "price": "₹351.36",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "packet of 120 MDI Transhaler",
+          "title4": "Lupin Ltd",
+          "title41": "Formoterol (6mcg) + Budesonide (200mcg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnovate-gm-cream-159688",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zjykqoh2gxrhjtwfghjy.jpg",
+          "title": "Betnovate-GM Cream",
+          "price": "₹37.45",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "tube of 20 gm Cream",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (0.1% w/w) + Gentamicin (0.1% w/w) + Miconazole (2% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/betnesol-forte-tablet-70139",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/kqwml5oqedu2c42tat17.jpg",
+          "title": "Betnesol Forte Tablet",
+          "price": "₹23.4",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 20 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "title41": "Betamethasone (1mg)",
+          "style__interaction___3cb12": "ADD"
+        }
+       ],
+
+
+
+
+
+
+
+       "medicineData_C":[
+        {
+          "button-text href": "https://www.1mg.com/drugs/chymoral-forte-tablet-145310",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yx2dyj1ln3as4ualtkz7.jpg",
+          "title": "Chymoral Forte Tablet",
+          "price": "₹423.4",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 20 tablets",
+          "title4": "Torrent Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Trypsin Chymotrypsin (100000AU)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cheston-cold-tablet-63785",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/p52wcgabuwsrs2jqms5p.png",
+          "title": "Cheston Cold Tablet",
+          "price": "₹46.75",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Cipla Ltd",
+          "style__font-12px___2ru_e": "Cetirizine (5mg) + Paracetamol (325mg) + Phenylephrine (10mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/combiflam-tablet-325414",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vf32odseque1ofuwxc1r.jpg",
+          "title": "Combiflam Tablet",
+          "price": "₹46.05",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 20 tablets",
+          "title4": "Sanofi India  Ltd",
+          "style__font-12px___2ru_e": "Ibuprofen (400mg) + Paracetamol (325mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/clavam-625-tablet-63841",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dx8kv8xxgt9kfnwooo1v.jpg",
+          "title": "Clavam 625 Tablet",
+          "price": "₹223.32",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Alkem Laboratories Ltd",
+          "style__font-12px___2ru_e": "Amoxycillin  (500mg) +  Clavulanic Acid (125mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/ceftum-500mg-tablet-58680",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dd12a3gsftirmv8zqjya.jpg",
+          "title": "Ceftum 500mg Tablet",
+          "price": "₹474.05",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 4 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Cefuroxime (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cilacar-10-tablet-621485",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/pspog7wrcvl9fr7gt1wi.png",
+          "title": "Cilacar 10 Tablet",
+          "price": "₹176.13",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 15 tablets",
+          "title4": "J B Chemicals and Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Cilnidipine (10mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cyclopam-tablet-64028",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ucqs2iy7biknsfdyhsbo.jpg",
+          "title": "Cyclopam Tablet",
+          "price": "₹51.2",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Indoco Remedies Ltd",
+          "style__font-12px___2ru_e": "Dicyclomine (20mg) + Paracetamol (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cyra-d-capsule-64034",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dvksg6hllrg9tsonm7c9.jpg",
+          "title": "Cyra-D Capsule",
+          "price": "₹51",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 capsules",
+          "title4": "Systopic Laboratories Pvt Ltd",
+          "style__font-12px___2ru_e": "Domperidone (30mg) + Rabeprazole (20mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cetrizine-tablet-54921",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/xa7fesaa8dlllhwmfw1z.jpg",
+          "title": "Cetrizine Tablet",
+          "price": "₹20.5",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Knoll Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Cetirizine (10mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/candid-b-cream-63687",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/oxbnpnfpmod6xtfd0myz.jpg",
+          "title": "Candid-B Cream",
+          "price": "₹145",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "tube of 20 gm Cream",
+          "title4": "Glenmark Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Beclometasone (0.025% w/w) + Clotrimazole (1% w/w)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/concor-cor-2.5-tablet-75326",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/hc024kyn5mx74vhueh76.jpg",
+          "title": "Concor COR 2.5 Tablet",
+          "price": "₹70.99",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Merck Ltd",
+          "style__font-12px___2ru_e": "Bisoprolol (2.5mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cremaffin-plus-syrup-refreshing-sugar-free-357685",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nch2geqakssfnztkwydi.png",
+          "title": "Cremaffin Plus  Syrup Refreshing Sugar Free",
+          "price": "₹270.73",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 225 ml Syrup",
+          "title4": "Abbott",
+          "style__font-12px___2ru_e": "Sodium Picosulfate (3.33mg) + Liquid Paraffin (1.25ml) + Milk Of Magnesia (3.75ml)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cidmus-50mg-tablet-346976",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/om4o0igv0dxetmzjslel.jpg",
+          "title": "CIDMUS 50mg Tablet",
+          "price": "₹1096.5",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 14 tablets",
+          "title4": "Dr Reddy's Laboratories Ltd",
+          "style__font-12px___2ru_e": "Sacubitril (24mg) + Valsartan (26mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/ciplox-eye-ear-drops-197483",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/s1zjzpgjhqbndeg814cv.jpg",
+          "title": "Ciplox Eye/Ear Drops",
+          "price": "₹18.88",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 10 ml Eye/Ear Drops",
+          "title4": "Cipla Ltd",
+          "style__font-12px___2ru_e": "Ciprofloxacin (0.3% w/v)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/concor-5-tablet-117202",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zlcuzyliuniacfghuzqc.jpg",
+          "title": "Concor 5 Tablet",
+          "price": "₹105.95",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Merck Ltd",
+          "style__font-12px___2ru_e": "Bisoprolol (5mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/ciplox-500-tablet-56693",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/x5mqqbbmtrnughshbdtd.jpg",
+          "title": "Ciplox 500 Tablet",
+          "price": "₹45.36",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Cipla Ltd",
+          "style__font-12px___2ru_e": "Ciprofloxacin (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/chericof-syrup-147580",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cawnhzcusrxnimy6vnbq.jpg",
+          "title": "Chericof Syrup",
+          "price": "₹118",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 100 ml Syrup",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "style__font-12px___2ru_e": "Phenylephrine (5mg/5ml) + Chlorpheniramine Maleate (2mg/5ml) + Dextromethorphan Hydrobromide (10mg/5ml)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cepodem-200-tablet-68992",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/nm2x1c0kfuvhzidqwjz6.jpg",
+          "title": "Cepodem 200 Tablet",
+          "price": "₹189",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "style__font-12px___2ru_e": "Cefpodoxime Proxetil (200mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/crocin-advance-tablet-600468",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dyihpbbohra9mlgtrzwa.jpg",
+          "title": "Crocin Advance Tablet",
+          "price": "₹22.62",
+          "title2 src": "",
+          "title2": "",
+          "title3": "strip of 20 tablets",
+          "title4": "GlaxoSmithKline Consumer Healthcare",
+          "style__font-12px___2ru_e": "Paracetamol (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cefakind-500-tablet-69717",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vsrv5e9rmeij6dpz8lcb.jpg",
+          "title": "Cefakind 500 Tablet",
+          "price": "₹399.9",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Mankind Pharma Ltd",
+          "style__font-12px___2ru_e": "Cefuroxime (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/clopitab-tablet-75287",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/huzhssez6pysenoq6g3m.jpg",
+          "title": "Clopitab Tablet",
+          "price": "₹108.47",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 15 tablets",
+          "title4": "Lupin Ltd",
+          "style__font-12px___2ru_e": "Clopidogrel (75mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cypon-syrup-173396",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lxoezy6flounqgvoyuhj.jpg",
+          "title": "Cypon Syrup",
+          "price": "₹113",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "bottle of 200 ml Syrup",
+          "title4": "Geno Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Cyproheptadine (2mg/5ml) + Tricholine Citrate (275mg/5ml) + Sorbitol (2gm/5ml)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cefix-200-tablet-148152",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/2a605a3d4f15403cbe1b4ab6c81ee8ba.jpg",
+          "title": "Cefix 200 Tablet",
+          "price": "₹119.39",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Cipla Ltd",
+          "style__font-12px___2ru_e": "Cefixime (200mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/calpol-t-tablet-340519",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c1d6uaexcdtvxmgendrj.jpg",
+          "title": "Calpol T  Tablet",
+          "price": "₹102.1",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 15 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Paracetamol/Acetaminophen  (325mg) +  Tramadol (37.5mg)",
+          "style__interaction___3cb12": ""
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cardivas-3.125-tablet-49140",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/rkeepfjwluwayhljxldr.jpg",
+          "title": "Cardivas 3.125 Tablet",
+          "price": "₹43.5",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "style__font-12px___2ru_e": "Carvedilol (3.125mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/cepodem-xp-325-tablet-70743",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vx8z72s2pwn6ojsucng6.jpg",
+          "title": "Cepodem XP 325 Tablet",
+          "price": "₹364",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Sun Pharmaceutical Industries Ltd",
+          "style__font-12px___2ru_e": "Cefpodoxime Proxetil (200mg) + Clavulanic Acid (125mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/claribid-500-tablet-351227",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yh7xfvejvplgilujjd2d.jpg",
+          "title": "Claribid 500 Tablet",
+          "price": "₹613.14",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 10 tablets",
+          "title4": "Abbott",
+          "style__font-12px___2ru_e": "Clarithromycin (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/calpol-500mg-tablet-69656",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/aiz6bn4u0dbhdks2ilv4.jpg",
+          "title": "Calpol 500mg Tablet",
+          "price": "₹16.65",
+          "title2 src": "",
+          "title2": "",
+          "title3": "strip of 15 tablets",
+          "title4": "Glaxo SmithKline Pharmaceuticals Ltd",
+          "style__font-12px___2ru_e": "Paracetamol (500mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/ciplar-la-20-tablet-342850",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/i7aqvwknfk12monh5mml.jpg",
+          "title": "Ciplar-LA 20 Tablet",
+          "price": "₹56.74",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 15 tablets",
+          "title4": "Cipla Ltd",
+          "style__font-12px___2ru_e": "Propranolol (20mg)",
+          "style__interaction___3cb12": "ADD"
+        },
+        {
+          "button-text href": "https://www.1mg.com/drugs/candiforce-200-capsule-482146",
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/fl3izy2gcaiascxzovd8.jpg",
+          "title": "Candiforce 200 Capsule",
+          "price": "₹160.93",
+          "title2 src": "https://onemg.gumlet.io/w_20,h_20/q_auto,f_auto/rx_icon.png",
+          "title2": "Prescription Required",
+          "title3": "strip of 7 capsules",
+          "title4": "Mankind Pharma Ltd",
+          "style__font-12px___2ru_e": "Itraconazole (200mg)",
+          "style__interaction___3cb12": "ADD"
+        }
+       ]
+
+
+    
  
   
  

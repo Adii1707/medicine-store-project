@@ -12,12 +12,14 @@ import {
 import { ColorModeSwitcher } from './ColorModeSwitcher';
 import { Logo } from './Logo';
 import { AllRoutes } from './Routes/AllRoutes';
+import Home from './Pages/Home';
 
 function App() {
   return (
     <ChakraProvider theme={theme}>
       <Box textAlign="center" fontSize="xl">
-       <AllRoutes />
+        <Home/>
+       {/* <AllRoutes /> */}
       </Box>
     </ChakraProvider>
   );

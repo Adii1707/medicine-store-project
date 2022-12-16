@@ -1,0 +1,16 @@
+.chakra-link:hover{
+    color: red;
+    text-decoration: none;
+    border: none;
+    text-decoration-line: none;
+}
+
+.css-1xjaau0:hover{
+    background-color: red;
+}
+
+.slick-slide {
+    padding: 30px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}

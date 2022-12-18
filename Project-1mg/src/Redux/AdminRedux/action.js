@@ -55,14 +55,57 @@ const ADDDataFailure = ()=> {
   };
 }
 
-const postdata = ({url, desc, price}) => (dispatch) => {
+//update task
+
+export const updateTasksRequest = () => {
+  return { type: types.UPDATE_DATA_REQUEST };
+};
+
+export const updateTaskSuccess = (payload) => {
+  return { type: types.UPDATE_DATA_SUCCESS, payload: payload };
+};
+
+export const updateTaskFailure = () => {
+  return { type: types.UPDATE_DATA_FAILURE };
+};
+
+
+export const updateData =
+  (id, {url, name, desc, price}) =>
+  (dispatch) => {
+    dispatch(updateTasksRequest());
+    console.log(id)
+    return axios
+      .patch(`https://json-mock-cp-cl1n.onrender.com/products/${id}`, {
+        name: name,
+        description: desc,
+        images: url,
+        price: price,
+        rating: 3.9,
+        realprice: 1307,
+        discount: "29% off",
+        maxrating: "",
+
+      })
+      .then((res) => {
+        console.log(res.data);
+        dispatch(updateTaskSuccess(res.data));
+      })
+      .catch((err) => {
+        console.log(err);
+        dispatch(updateTaskFailure());
+      });
+  };
+
+
+const postdata = ({url, name, desc, price}) => (dispatch) => {
   console.log("params", url);
   let data = {
     description: desc,
     discount: "29% off",
     images: url,
     maxrating: "",
-    name: "Baidyanath Kamini Vidrawan Ras Keshar Yukta Tablet",
+    name: name,
     price: price,
     rating: 3.9,
     realprice: 1307,
@@ -70,7 +113,7 @@ const postdata = ({url, desc, price}) => (dispatch) => {
   dispatch(ADDDataRequest());
   
   return axios.post(
-      `https://json-mock-cp-cl1n.onrender.com/top-deals`, data
+      `https://json-mock-cp-cl1n.onrender.com/products`, data
     )
     .then((res) => {
      dispatch(ADDDataSuccess());
@@ -101,7 +144,7 @@ const deletetask = (id) => (dispatch) => {
   console.log("id:",id)
   dispatch(DELETETASKREQUEST());
  return  axios
-    .delete(`https://json-mock-cp-cl1n.onrender.com/top-deals/${id}`)
+    .delete(`https://json-mock-cp-cl1n.onrender.com/products/${id}`)
     .then((res) => {
      // console.log(res.data)
      console.log("id:",id)

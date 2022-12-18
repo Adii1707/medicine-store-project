@@ -3,11 +3,12 @@ import React from 'react'
 import { Navbar } from './Navbar';
 import { FetchData } from './fetchData';
 
+
 export const Admin = () => {
   return (
     <div>
         <Navbar />
-        <Heading>Admin Page</Heading>
+        <Heading width={"full"}  p={3} bg={'orange.100'}>Admin Page</Heading>
         <FetchData />
 
     </div>

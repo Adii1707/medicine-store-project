@@ -1,14 +1,6 @@
-import { Product_Reducer } from "./Product_Redux/product_reducer";
-import  {reducer as DiseasesReducer} from "./Diseases_Redux/reducer"
-import {combineReducers,legacy_createStore,applyMiddleware, compose } from "redux"
-const rootreducer=combineReducers({
-    productdata:Product_Reducer,DiseasesReducer
- })
- const customMiddleware=(store)=>(next)=>(action)=>{
-    if(typeof action==="function"){
-    return action(store.dispatch)
-    }
-    return next(action)
-    }
-    const store=legacy_createStore(rootreducer,compose(applyMiddleware(customMiddleware)))
-export {store}
+import {legacy_createStore,applyMiddleware} from "redux"
+import thunk from "redux-thunk";
+import { reducer } from "./AdminRedux/reducer";
+const store = legacy_createStore(reducer,applyMiddleware(thunk));
+
+export { store };

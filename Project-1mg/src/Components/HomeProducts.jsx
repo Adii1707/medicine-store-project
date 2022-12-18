@@ -5,7 +5,7 @@ import { Box } from "@chakra-ui/react";
 import { HomeData } from "../Data/Data";
 import SliderComp from "./Slider";
 
-const url = "https://json-mock-cp-cl1n.onrender.com/Omega";
+const url = "https://json-mock-cp-cl1n.onrender.com/data";
 
 const HomeProducts = () => {
   const data = useSelector((store) => store.data);
@@ -30,11 +30,31 @@ const HomeProducts = () => {
         heading="Featured brands"
         height="210px"
       />
-      <SliderComp
-        data={data}
+      {data.length > 0 && <SliderComp
+        data={data[1].Omega}
         heading="Omega & fish oil"
         height="281px"
+      />}
+      {data.length > 0 && <SliderComp
+        data={data[0].mamaearth}
+        heading="Mamaearth Products"
+        height="281px"
+      />}
+      <SliderComp
+        data={HomeData.Popular}
+        heading="Featured brands"
+        height="210px"
       />
+      {data.length > 0 && <SliderComp
+        data={data[2].combo}
+        heading="Popular Combo Deals"
+        height="281px"
+      />}
+      {data.length > 0 && <SliderComp
+        data={data[3].tablets}
+        heading="Calcium | supplement of the week"
+        height="281px"
+      />}
     </Box>
   );
 };

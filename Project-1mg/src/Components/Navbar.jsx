@@ -16,14 +16,15 @@ import {
   Grid,
   theme,
 } from "@chakra-ui/react";
+import SignUp from "./Signup";
 
 
 
 export const Navbar = () => {
   return (
-    <Box fontFamily="Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif" bgColor="white" >
+    <Box fontFamily="Clear Sans, Helvetica Neue, Helvetica, Arial, sans-serif" bgColor="white" w={["480px", "600px", "1000px", "100%"]}  >
       <Flex
-        w="100%"
+        w={["480px", "600px", "1000px", "100%"]}
         h="47px"
         border="1px solid #E0E0E0"
         borderTop="none"
@@ -38,7 +39,7 @@ export const Navbar = () => {
           {navLinks.map((elem, index) => {
             return (
               <Flex key={index} h="20px" alignItems="center">
-                <Link fontSize="16px" fontWeight="bold" _hover={{ color: "#FF6F61" }}>
+                <Link fontSize={["8px","8px","12px","16px"]} fontWeight="bold" _hover={{ color: "#FF6F61" }}>
                  {elem.title}
                 </Link>
               </Flex>
@@ -51,7 +52,7 @@ export const Navbar = () => {
             <Link fontSize="14px">Login |</Link>
           </Flex>
           <Flex h="20px" alignItems="center" ml="5px">
-            <Link fontSize="14px">Signup</Link>
+            <SignUp/>
           </Flex>
           <Flex h="20px" alignItems="center" ml="23px">
             <Link fontSize="14px">Offers</Link>
@@ -68,7 +69,7 @@ export const Navbar = () => {
       </Flex>
 
       <Flex
-        w="100%"
+        w={["480px", "600px", "1000px", "100%"]}
         h="47px"
         border="1px solid #E0E0E0"
         borderTop="none"
@@ -78,7 +79,7 @@ export const Navbar = () => {
         <Flex alignItems="center">
           <Flex
             alignItems="center"
-            w="200px"
+            w={["100px", "100px", "150px","200px"]}
             h="34px"
             bgColor="#F1F4F6"
             ml="53px"
@@ -88,7 +89,7 @@ export const Navbar = () => {
               <Image w="16px" h="17px" src={locationICon} />
             </Box>
             <Input
-              w="140px"
+              w={["70px", "70px", "110px", "140px" ]}
               h="25px"
               pl="5px"
               fontSize="14px"
@@ -105,7 +106,7 @@ export const Navbar = () => {
           </Flex>
           <Flex
             alignItems="center"
-            w="585px"
+            w={["250px", "250px", "400px", "585px"]}
             h="34px"
             bgColor="#F1F4F6"
             ml="1px"

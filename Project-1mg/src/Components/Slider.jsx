@@ -55,7 +55,7 @@ const SliderComp = ({ data, heading, height, discription }) => {
                   <Text w="150px" m="auto" mt="7px" h="40px" overflow="hidden" >
                     {elem.name}
                   </Text>
-                  <Text fontSize="12px" m="auto" mt="8px" color="#757575" w="150px" h="20px" overflow="hidden" >{elem.pack_size}</Text>
+                  <Text fontSize="12px" m="auto" mt="8px" color="#757575" w="150px" h="20px" overflow="hidden" > {elem.about} {elem.pack_size}</Text>
                   <Text fontSize="12px" m="auto" mt="2px" color="#757575" w="150px" h="20px" overflow="hidden" >{ elem.price && "MRP"}  <span style={{ textDecoration: "line-through" }} >{elem.price}</span> <span style={{ color: "#1AAB2A", fontSize: "11px", }}>{elem.discount_percent}</span> </Text>
                   <Text fontSize="16px" fontWeight="bold" >{elem.new_price}</Text>
                 </Box>

@@ -1,293 +1,300 @@
 {
-   "mamaearth": [
+  "data": [
     {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ll16prunudl5wg9dkjyo.jpg",
-      "name": "Mamaearth Onion Hair Oil",
-      "about": "bottle of 150 ml Oil",
-      "price": "₹419",
-      "discount_percent": "12% off",
-      "new_price": "₹369"
+      "mamaearth": [
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ll16prunudl5wg9dkjyo.jpg",
+          "name": "Mamaearth Onion Hair Oil",
+          "about": "bottle of 150 ml Oil",
+          "price": "₹419",
+          "discount_percent": "12% off",
+          "new_price": "₹369"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/i5kbl7bek1cueqvvcfqu.jpg",
+          "name": "Mamaearth Onion Shampoo",
+          "about": "pump bottle of 250 ml Shampoo",
+          "price": "₹349",
+          "discount_percent": "5% off",
+          "new_price": "₹331"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lqzdkuwo6ore3eiqfwd7.jpg",
+          "name": "Mamaearth Ubtan Face Wash",
+          "about": "tube of 100 ml Face Wash",
+          "price": "₹259",
+          "discount_percent": "12% off",
+          "new_price": "₹226"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/ugjgxvpb3rijvtrhfxig.jpg",
+          "name": "Mamaearth Tea Tree Face Wash",
+          "about": "tube of 100 ml Face Wash",
+          "price": "₹259",
+          "discount_percent": "12% off",
+          "new_price": "₹227"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mrx1uoqqizxrg0cx7ghc.jpg",
+          "name": "Mamaearth Onion Hair Mask",
+          "about": "jar of 200 ml Hair Mask",
+          "price": "₹599",
+          "discount_percent": "10% off",
+          "new_price": "₹539"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vqskxnzsiwixbk1ygx2d.jpg",
+          "name": "Mamaearth Oil-Free Face Moisturizer",
+          "about": "tube of 80 ml Moisturiser",
+          "price": "₹319",
+          "discount_percent": "12% off",
+          "new_price": "₹281"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/witld7zvk8cnw5wmp9mj.jpg",
+          "name": "Mamaearth Bye Bye Dark Circles Eye Cream",
+          "about": "tube of 20 gm Cream",
+          "price": "₹399",
+          "discount_percent": "12% off",
+          "new_price": "₹351"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sgzy9uyjjblqot4lgpr4.jpg",
+          "name": "Mamaearth Hair Oil Onion",
+          "about": "bottle of 250 ml Oil",
+          "price": "₹599",
+          "discount_percent": "11% off",
+          "new_price": "₹533"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/q4ul1v99vgvwgeug1yo6.jpg",
+          "name": "Mamaearth Bye Bye Blemishes Face Cream",
+          "about": "pump bottle of 30 ml Cream",
+          "price": "₹471",
+          "discount_percent": "12% off",
+          "new_price": "₹414"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/gtxdro8oftxtefr79vnh.jpg",
+          "name": "Mamaearth Skin Illuminate Face Serum",
+          "about": "pump bottle of 30 gm Serum",
+          "price": "₹599",
+          "discount_percent": "2% off",
+          "new_price": "₹587"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/orvumpvqta7dczbfngv2.jpg",
+          "name": "Mamaearth Onion Conditioner",
+          "about": "pump bottle of 250 ml Conditioner",
+          "price": "₹349",
+          "discount_percent": "5% off",
+          "new_price": "₹330"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/jhxumi8jgfnd1xwomsi6.jpg",
+          "name": "Mamaearth Aloe Vera Gel",
+          "about": "pump bottle of 300 ml Gel",
+          "price": "₹319",
+          "discount_percent": "12% off",
+          "new_price": "₹281"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/ss0xvpcgzz8pdlzabaud.jpg",
+          "name": "Mamaearth Skin Correct Face Serum",
+          "about": "bottle of 30 ml Serum",
+          "price": "₹599",
+          "discount_percent": "2% off",
+          "new_price": "₹587"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qktd77puvhnh1w0ofrmn.jpg",
+          "name": "Mamaearth BhringAmla Shampoo",
+          "about": "pump bottle of 250 ml Shampoo",
+          "price": "₹349",
+          "discount_percent": "15% off",
+          "new_price": "₹297"
+        }
+      ]
     },
     {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/i5kbl7bek1cueqvvcfqu.jpg",
-      "name": "Mamaearth Onion Shampoo",
-      "about": "pump bottle of 250 ml Shampoo",
-      "price": "₹349",
-      "discount_percent": "5% off",
-      "new_price": "₹331"
+      "Omega": [
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0fa72f2c-072d-4c6a-bc52-446edab403a4.jpeg",
+          "name": "Tata 1mg Salmon Omega 3 Fish Oil Capsule",
+          "pack_size": "bottle of 60 capsules",
+          "price": "₹995",
+          "discount_percent": "47% off",
+          "new_price": "₹525"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e5722339955b423b9e5cdaa70b9f43f9.jpg",
+          "name": "Dr. Morepen Omega 3 Triple Strength 1250mg Deep Sea Fish Oil with DHA & EPA 900mg Softgel",
+          "pack_size": "bottle of 60 soft gelatin capsules",
+          "price": "₹1099",
+          "discount_percent": "40% off",
+          "new_price": "₹659"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dtaenio2oyxkv3ilbzcp.jpg",
+          "name": "Seacod Cod Liver Oil Capsule",
+          "pack_size": "bottle of 110 soft gelatin capsules",
+          "price": "₹352.98",
+          "discount_percent": "11% off",
+          "new_price": "₹313"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/11ddefe33cf94464a732629c800b34c3.jpg",
+          "name": "HealthKart HK Vitals Fish Oil Omega 3 Fatty Acids Soft Gelatin Capsule",
+          "pack_size": "bottle of 60 soft gelatin capsules",
+          "price": "₹699",
+          "discount_percent": "43% off",
+          "new_price": "₹399"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yalh5nrqo7pxzujeax54.jpg",
+          "name": "Seven Seas Original Cod-Liver Oil Capsule",
+          "pack_size": "bottle of 500 soft gelatin capsules",
+          "price": "₹1339.5",
+          "discount_percent": "4% off",
+          "new_price": "₹1282"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wlyahgatqmc2ss4zahxd.jpg",
+          "name": "Carbamide Forte Triple Strength Fish Oil 1400mg Omega 3, 900mg Softgel Capsule",
+          "pack_size": "bottle of 90 soft gelatin capsules",
+          "price": "₹1095",
+          "discount_percent": "36% off",
+          "new_price": "₹699"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9432a1aa5ebe47d580e84d7fb8ea0a68.jpg",
+          "name": "GNC Triple Strength Fish Oil Softgel",
+          "pack_size": "bottle of 60 soft gelatin capsules",
+          "price": "₹1599",
+          "discount_percent": "37% off",
+          "new_price": "₹999"
+        }
+      ]
     },
     {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/lqzdkuwo6ore3eiqfwd7.jpg",
-      "name": "Mamaearth Ubtan Face Wash",
-      "about": "tube of 100 ml Face Wash",
-      "price": "₹259",
-      "discount_percent": "12% off",
-      "new_price": "₹226"
+      "combo": [
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38b86c6a33f744afac80ed36d4bb87ba.jpg",
+          "name": "Tata 1mg Diabetes Care Combo Pack for Cholesterol & Blood Sugar Management",
+          "pack_size": "combo pack of 3 Packs",
+          "price": "₹1085",
+          "discount_percent": "46% off",
+          "new_price": "₹580"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c2sw0gi2dw4cwdf1ecjp.jpg",
+          "name": "Accu-Chek Combo Pack of Active 50 Test Strip & 2 Pack of Softclix Lancet (25 Each)",
+          "pack_size": "combo pack of 3 units",
+          "price": "₹1299",
+          "discount_percent": "2% off",
+          "new_price": "₹1267"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/56346ef6-9312-4f9f-904a-a9559a06d29d.jpeg",
+          "name": "Durex Honeymoon Pack (Mutual Climax Condoms + Sensual Lube)",
+          "pack_size": "combo pack of 2 Packs",
+          "price": "₹1059",
+          "discount_percent": "18% off",
+          "new_price": "₹865"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qir6i2zlhzeddxa4mqt0.jpg",
+          "name": "Immunity Care Combo of 1mg Panch Tulsi 30ml Drops and Patanjali Ayurveda Giloy Ghanvati 60 Tablet",
+          "pack_size": "combo pack of 2 Packs",
+          "price": "₹335",
+          "discount_percent": "21% off",
+          "new_price": "₹264"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cr9a2p0evnuzwvw5ksp1.jpg",
+          "name": "Acne Care Combo of Cetaphil Oily Skin Cleanser 125ml and Klm Klin Face Wash 100ml",
+          "pack_size": "combo pack of 2 Packs",
+          "price": "₹820",
+          "discount_percent": "11% off",
+          "new_price": "₹726"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/if0qou7t1ptcaaowcigp.jpg",
+          "name": "Accu-Chek Active Combo of Glucometer with 10 Test Strip Free and 50 Test Strips",
+          "pack_size": "combo pack of 2 Packs",
+          "price": "₹2048",
+          "discount_percent": "6% off",
+          "new_price": "₹1922"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uca5jm0uqfqpjoyydzh0.jpg",
+          "name": "Tata 1mg Diabetes Care Combo Pack for Blood Sugar & Cholestrol Management",
+          "pack_size": "combo pack of 4 bottles",
+          "price": "₹1580",
+          "discount_percent": "57% off",
+          "new_price": "₹677"
+        }
+      ]
     },
     {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/ugjgxvpb3rijvtrhfxig.jpg",
-      "name": "Mamaearth Tea Tree Face Wash",
-      "about": "tube of 100 ml Face Wash",
-      "price": "₹259",
-      "discount_percent": "12% off",
-      "new_price": "₹227"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/mrx1uoqqizxrg0cx7ghc.jpg",
-      "name": "Mamaearth Onion Hair Mask",
-      "about": "jar of 200 ml Hair Mask",
-      "price": "₹599",
-      "discount_percent": "10% off",
-      "new_price": "₹539"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/vqskxnzsiwixbk1ygx2d.jpg",
-      "name": "Mamaearth Oil-Free Face Moisturizer",
-      "about": "tube of 80 ml Moisturiser",
-      "price": "₹319",
-      "discount_percent": "12% off",
-      "new_price": "₹281"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/witld7zvk8cnw5wmp9mj.jpg",
-      "name": "Mamaearth Bye Bye Dark Circles Eye Cream",
-      "about": "tube of 20 gm Cream",
-      "price": "₹399",
-      "discount_percent": "12% off",
-      "new_price": "₹351"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/sgzy9uyjjblqot4lgpr4.jpg",
-      "name": "Mamaearth Hair Oil Onion",
-      "about": "bottle of 250 ml Oil",
-      "price": "₹599",
-      "discount_percent": "11% off",
-      "new_price": "₹533"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/q4ul1v99vgvwgeug1yo6.jpg",
-      "name": "Mamaearth Bye Bye Blemishes Face Cream",
-      "about": "pump bottle of 30 ml Cream",
-      "price": "₹471",
-      "discount_percent": "12% off",
-      "new_price": "₹414"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/gtxdro8oftxtefr79vnh.jpg",
-      "name": "Mamaearth Skin Illuminate Face Serum",
-      "about": "pump bottle of 30 gm Serum",
-      "price": "₹599",
-      "discount_percent": "2% off",
-      "new_price": "₹587"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/orvumpvqta7dczbfngv2.jpg",
-      "name": "Mamaearth Onion Conditioner",
-      "about": "pump bottle of 250 ml Conditioner",
-      "price": "₹349",
-      "discount_percent": "5% off",
-      "new_price": "₹330"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/jhxumi8jgfnd1xwomsi6.jpg",
-      "name": "Mamaearth Aloe Vera Gel",
-      "about": "pump bottle of 300 ml Gel",
-      "price": "₹319",
-      "discount_percent": "12% off",
-      "new_price": "₹281"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cropped/ss0xvpcgzz8pdlzabaud.jpg",
-      "name": "Mamaearth Skin Correct Face Serum",
-      "about": "bottle of 30 ml Serum",
-      "price": "₹599",
-      "discount_percent": "2% off",
-      "new_price": "₹587"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qktd77puvhnh1w0ofrmn.jpg",
-      "name": "Mamaearth BhringAmla Shampoo",
-      "about": "pump bottle of 250 ml Shampoo",
-      "price": "₹349",
-      "discount_percent": "15% off",
-      "new_price": "₹297"
-    }
-  ],
-
-  "Omega": [
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/0fa72f2c-072d-4c6a-bc52-446edab403a4.jpeg",
-      "name": "Tata 1mg Salmon Omega 3 Fish Oil Capsule",
-      "pack_size": "bottle of 60 capsules",
-      "price": "₹995",
-      "discount_percent": "47% off",
-      "new_price": "₹525"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/e5722339955b423b9e5cdaa70b9f43f9.jpg",
-      "name": "Dr. Morepen Omega 3 Triple Strength 1250mg Deep Sea Fish Oil with DHA & EPA 900mg Softgel",
-      "pack_size": "bottle of 60 soft gelatin capsules",
-      "price": "₹1099",
-      "discount_percent": "40% off",
-      "new_price": "₹659"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/dtaenio2oyxkv3ilbzcp.jpg",
-      "name": "Seacod Cod Liver Oil Capsule",
-      "pack_size": "bottle of 110 soft gelatin capsules",
-      "price": "₹352.98",
-      "discount_percent": "11% off",
-      "new_price": "₹313"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/11ddefe33cf94464a732629c800b34c3.jpg",
-      "name": "HealthKart HK Vitals Fish Oil Omega 3 Fatty Acids Soft Gelatin Capsule",
-      "pack_size": "bottle of 60 soft gelatin capsules",
-      "price": "₹699",
-      "discount_percent": "43% off",
-      "new_price": "₹399"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/yalh5nrqo7pxzujeax54.jpg",
-      "name": "Seven Seas Original Cod-Liver Oil Capsule",
-      "pack_size": "bottle of 500 soft gelatin capsules",
-      "price": "₹1339.5",
-      "discount_percent": "4% off",
-      "new_price": "₹1282"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/wlyahgatqmc2ss4zahxd.jpg",
-      "name": "Carbamide Forte Triple Strength Fish Oil 1400mg Omega 3, 900mg Softgel Capsule",
-      "pack_size": "bottle of 90 soft gelatin capsules",
-      "price": "₹1095",
-      "discount_percent": "36% off",
-      "new_price": "₹699"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/9432a1aa5ebe47d580e84d7fb8ea0a68.jpg",
-      "name": "GNC Triple Strength Fish Oil Softgel",
-      "pack_size": "bottle of 60 soft gelatin capsules",
-      "price": "₹1599",
-      "discount_percent": "37% off",
-      "new_price": "₹999"
-    }
-  ],
-
-  "combo": [
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/38b86c6a33f744afac80ed36d4bb87ba.jpg",
-      "name": "Tata 1mg Diabetes Care Combo Pack for Cholesterol & Blood Sugar Management",
-      "pack_size": "combo pack of 3 Packs",
-      "price": "₹1085",
-      "discount_percent": "46% off",
-      "new_price": "₹580"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/c2sw0gi2dw4cwdf1ecjp.jpg",
-      "name": "Accu-Chek Combo Pack of Active 50 Test Strip & 2 Pack of Softclix Lancet (25 Each)",
-      "pack_size": "combo pack of 3 units",
-      "price": "₹1299",
-      "discount_percent": "2% off",
-      "new_price": "₹1267"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/56346ef6-9312-4f9f-904a-a9559a06d29d.jpeg",
-      "name": "Durex Honeymoon Pack (Mutual Climax Condoms + Sensual Lube)",
-      "pack_size": "combo pack of 2 Packs",
-      "price": "₹1059",
-      "discount_percent": "18% off",
-      "new_price": "₹865"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qir6i2zlhzeddxa4mqt0.jpg",
-      "name": "Immunity Care Combo of 1mg Panch Tulsi 30ml Drops and Patanjali Ayurveda Giloy Ghanvati 60 Tablet",
-      "pack_size": "combo pack of 2 Packs",
-      "price": "₹335",
-      "discount_percent": "21% off",
-      "new_price": "₹264"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/cr9a2p0evnuzwvw5ksp1.jpg",
-      "name": "Acne Care Combo of Cetaphil Oily Skin Cleanser 125ml and Klm Klin Face Wash 100ml",
-      "pack_size": "combo pack of 2 Packs",
-      "price": "₹820",
-      "discount_percent": "11% off",
-      "new_price": "₹726"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/if0qou7t1ptcaaowcigp.jpg",
-      "name": "Accu-Chek Active Combo of Glucometer with 10 Test Strip Free and 50 Test Strips",
-      "pack_size": "combo pack of 2 Packs",
-      "price": "₹2048",
-      "discount_percent": "6% off",
-      "new_price": "₹1922"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/uca5jm0uqfqpjoyydzh0.jpg",
-      "name": "Tata 1mg Diabetes Care Combo Pack for Blood Sugar & Cholestrol Management",
-      "pack_size": "combo pack of 4 bottles",
-      "price": "₹1580",
-      "discount_percent": "57% off",
-      "new_price": "₹677"
-    }
-  ],
-
-  "tablets":[
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qh1au45w8u7cfvf3lg3i.jpg",
-      "name": "Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C, Calcium, Vitamin D and Iron, Support Immunity, Bones & Overall Health",
-      "pack_size": "bottle of 60 tablets",
-      "price": "₹995",
-      "discount_percent": "56% off",
-      "new_price": "₹433"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gc3u9gfc331wtsipnljl.jpg",
-      "name": "Tata 1mg Calcium + Vitamin D3, Zinc, Magnesium and Alfalfa Tablet, Joint Support, Bones Health, Immunity & Energy Support",
-      "pack_size": "bottle of 60 tablets",
-      "price": "₹595",
-      "discount_percent": "53% off",
-      "new_price": "₹278"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/309e3678e3ca467581143b7a47595d4c.jpg",
-      "name": "Ostocalcium Plus Chewable Tablet",
-      "pack_size": "bottle of 30 Chewable Tablets",
-      "price": "₹196.84",
-      "discount_percent": "10% off",
-      "new_price": "₹176"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ltcu9fw66h1deqlcbu9x.jpg",
-      "name": "Cipcal 500 Tablet",
-      "pack_size": "strip of 15 tablets",
-      "price": "₹86.5",
-      "discount_percent": "44% off",
-      "new_price": "₹48"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a871807dafe9483084c5a780191dd090.jpg",
-      "name": "Carbamide Forte Calcium Tablet",
-      "pack_size": "box of 120 tablets",
-      "price": "₹695",
-      "discount_percent": "21% off",
-      "new_price": "₹549"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zowp8fepfoeqfplpj7oy.jpg",
-      "name": "Calcimax Forte+ Tablet",
-      "pack_size": "strip of 30 tablets",
-      "price": "₹285",
-      "discount_percent": "10% off",
-      "new_price": "₹256"
-    },
-    {
-      "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/duapgnzx4k0iupahsy1t.jpg",
-      "name": "Inlife Calcium Vitamin D3 Tablet",
-      "pack_size": "bottle of 60 tablets",
-      "price": "₹449",
-      "discount_percent": "37% off",
-      "new_price": "₹283"
+      "tablets": [
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/qh1au45w8u7cfvf3lg3i.jpg",
+          "name": "Tata 1mg Women's Multivitamin Veg Tablet with Zinc, Vitamin C, Calcium, Vitamin D and Iron, Support Immunity, Bones & Overall Health",
+          "pack_size": "bottle of 60 tablets",
+          "price": "₹995",
+          "discount_percent": "56% off",
+          "new_price": "₹433"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/gc3u9gfc331wtsipnljl.jpg",
+          "name": "Tata 1mg Calcium + Vitamin D3, Zinc, Magnesium and Alfalfa Tablet, Joint Support, Bones Health, Immunity & Energy Support",
+          "pack_size": "bottle of 60 tablets",
+          "price": "₹595",
+          "discount_percent": "53% off",
+          "new_price": "₹278"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/309e3678e3ca467581143b7a47595d4c.jpg",
+          "name": "Ostocalcium Plus Chewable Tablet",
+          "pack_size": "bottle of 30 Chewable Tablets",
+          "price": "₹196.84",
+          "discount_percent": "10% off",
+          "new_price": "₹176"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/ltcu9fw66h1deqlcbu9x.jpg",
+          "name": "Cipcal 500 Tablet",
+          "pack_size": "strip of 15 tablets",
+          "price": "₹86.5",
+          "discount_percent": "44% off",
+          "new_price": "₹48"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/a871807dafe9483084c5a780191dd090.jpg",
+          "name": "Carbamide Forte Calcium Tablet",
+          "pack_size": "box of 120 tablets",
+          "price": "₹695",
+          "discount_percent": "21% off",
+          "new_price": "₹549"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/zowp8fepfoeqfplpj7oy.jpg",
+          "name": "Calcimax Forte+ Tablet",
+          "pack_size": "strip of 30 tablets",
+          "price": "₹285",
+          "discount_percent": "10% off",
+          "new_price": "₹256"
+        },
+        {
+          "image": "https://onemg.gumlet.io/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/duapgnzx4k0iupahsy1t.jpg",
+          "name": "Inlife Calcium Vitamin D3 Tablet",
+          "pack_size": "bottle of 60 tablets",
+          "price": "₹449",
+          "discount_percent": "37% off",
+          "new_price": "₹283"
+        }
+      ]
     }
   ]
 }

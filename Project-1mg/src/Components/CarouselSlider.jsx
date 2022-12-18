@@ -61,12 +61,12 @@ export default class Responsive extends Component {
     };
     return (
       <Box bgColor="white" >
-        <Flex pt="7px" gap="0px" borderBottom="2px solid #E0E0E0">
-          <Slider className="slider" {...settings}>
+        <Flex pt="7px" gap="0px" borderBottom="2px solid #E0E0E0" m="auto" justifyContent={["center","center","center",""]} flexDirection={["column-reverse","column-reverse", "column-reverse", "row"]} >
+          <Slider className="slider" {...settings} w={["450px", "600px","800px", "900px"]}>
             {sliderImage.map((elem, index) => {
               return (
                 <Box key={index}>
-                  <Image cursor="pointer" h="203px" src={elem} />
+                  <Image cursor="pointer" h="203px" w={["450px", "600px","800px", "900px"]} src={elem} />
                 </Box>
               );
             })}

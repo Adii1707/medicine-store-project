@@ -43,11 +43,12 @@ export const sliderImage = [
   "https://onemg.gumlet.io/eaa47bc6-c205-4c12-b0ef-cfe120c05de1_1670229214.png?w=899&h=200&format=auto",
   "https://onemg.gumlet.io/ff4b997a-f8f2-41a6-b909-85649072d538_1667292669.png?w=899&h=200&format=auto",
   "https://onemg.gumlet.io/a_ignore,w_899,h_200,c_fit,q_auto,f_auto/b58b9e0e-a6f7-45b5-a28a-dd833066c127.png",
-  "https://onemg.gumlet.io/5f1c29c8-9d81-4240-9458-fe18de1000af_1665467859.png?w=899&h=200&format=auto"
+  "https://onemg.gumlet.io/5f1c29c8-9d81-4240-9458-fe18de1000af_1665467859.png?w=899&h=200&format=auto",
+  "https://onemg.gumlet.io/19a4fe54-3a77-411b-9e53-9adbacfbd9e9_1664865792.jpg?w=899&h=200&format=auto"
 ];
 
 export const settings = {
-  dots: true,
+  dots: false,
   infinite: false,
   speed: 500,
   slidesToShow: 7,

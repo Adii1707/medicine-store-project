@@ -4,7 +4,8 @@ import * as types from "./actionTypes"
 const intialState = {
   data: [],
   isLoading: false,
-  isError: false
+  isError: false,
+  isAuth: false
 }
 
 const reducer = (state= intialState, action) => {
@@ -16,6 +17,8 @@ const reducer = (state= intialState, action) => {
       return {...state, data: payload, isLoading: false };
     case types.GET_DATA_FAILURE:
       return {...state, isLoading: false, isError: true };
+    case types.GET_OTP_SUCCESS:
+      return {...state, isAuth: true};
     default:
       return state;
   }

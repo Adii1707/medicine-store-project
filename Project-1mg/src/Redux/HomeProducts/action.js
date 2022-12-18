@@ -14,6 +14,19 @@ export const getDataFailure = () => {
   return { type: types.GET_DATA_FAILURE };
 };
 
+export const getOtpRequest = () => {
+  return { type: types.GET_OTP_REQUEST };
+};
+
+export const getOtpSuccess = (payload) => {
+  return { type: types.GET_OTP_SUCCESS, payload };
+};
+
+export const getOtpFailure = () => {
+  return { type: types.GET_OTP_FAILURE };
+};
+
+
 export const getData = (url) => (dispatch) => {
   dispatch(getDataRequest());
   return axios

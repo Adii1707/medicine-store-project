@@ -4,7 +4,7 @@ import { SimpleGrid } from "@chakra-ui/react";
 const AllProducts = () => {
   return (
     <div>
-      <Products_generic productlist={60} />
+      <Products_generic productlist={100} />
     </div>
   );
 };

@@ -21,16 +21,30 @@ const ERROR = () => {
 };
 const getdata = (url) => (dispatch) => {
   dispatch(LOADING());
-  console.log("kkk", url);
+ 
   return axios
     .get(url)
     .then((res) => {
-      console.log("hey i am running");
+      
       dispatch(SUCCESS(res.data));
     })
     .catch((error) => {
+     
       dispatch(ERROR());
     });
 };
-export { LOADING, SUCCESS, ERROR, getdata };
+const filtergetdata=(params)=>(dispatch)=>{
+  console.log("i am params",params);
+  dispatch(LOADING());
+  axios
+    .get("https://json-mock-cp-cl1n.onrender.com/products",params)
+    .then((res) => {
+      
+      dispatch(SUCCESS(res.data));
+    })
+    .catch((e) => {
+      dispatch(ERROR());
+    });
+}
+export { LOADING, SUCCESS, ERROR, getdata,filtergetdata };
 

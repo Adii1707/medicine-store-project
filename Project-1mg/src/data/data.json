@@ -1,0 +1,186 @@
+[
+  {
+    "id": "1",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/e729780862de4db4a6f05afb72054305/baidyanath-kamini-vidrawan-ras-keshar-yukta-tablet.jpg",
+    "name": "Baidyanath Kamini Vidrawan Ras Keshar Yukta Tablet",
+    "description": "bottle of 10 gm Tablet",
+    "rating": 3.9,
+    "maxrating": "222 ratings",
+    "price": "₹1837",
+    "discount": "29% off",
+    "realprice": 1307
+  },
+  {
+    "id": "2",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/b386775bd1d645d1933149b7d461e811/baidyanath-vansaar-karela-jamun-juice.jpg",
+    "name": "Baidyanath Vansaar Isabgol Psyllium Husk Powder",
+    "description": "box of 200 gm Powder",
+    "rating": 4.5,
+    "maxrating": "521 ratings",
+    "price": "₹225",
+    "discount": "20% off",
+    "realprice": 180
+  },
+  {
+    "id": "3",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/cropped/cb5w9e2ofjxis4et62vm/baidyanath-puspadhanwa-ras-tablet.png",
+    "style__adBadge-text___2He6o": "Ad",
+    "name": "Baidyanath Puspadhanwa Ras Tablet",
+    "description": "bottle of 40 tablets",
+    "rating": 4.4,
+    "maxrating": "18 ratings",
+    "price": "₹214",
+    "discount": "20% off",
+    "realprice": 171
+  },
+  {
+    "id": "4",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/wxcyaombrajpkyvcvnrm/baidyanath-kesari-kalp-royal-chyawanprash-promotes-vitality-strength-stamina.jpg",
+    "name": "Baidyanath Kesari Kalp Royal Chyawanprash Promotes Vitality, Strength & Stamina",
+    "description": "jar of 1 kg Paste",
+    "rating": 4.3,
+    "maxrating": "737 ratings",
+    "price": "₹740",
+    "discount": "22% off",
+    "realprice": 577
+  },
+  {
+    "id": "5",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/l4xgdjocchnqrgwoiye2/baidyanath-vansaar-gut-relief-powder-sugar-free.jpg",
+    "name": "Baidyanath Kanchnar Guggulu Tablet",
+    "description": "bottle of 80 tablets",
+    "rating": 4.3,
+    "maxrating": "266 ratings",
+    "price": "₹140",
+    "discount": "23% off",
+    "realprice": 108
+  },
+  {
+    "id": "6",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/r4q79nrsaa1tfaxfvbn7/baidyanath-chyawanprash-special-immunity-booster-for-omniprotection-with-madhu-free-50gm.jpg",
+    "name": "Baidyanath Chyawanprash Special Immunity Booster for OmniProtection with Madhu Free 50gm",
+    "description": "jar of 950 gm Paste",
+    "rating": 4.3,
+    "maxrating": "904 ratings",
+    "price": "₹395",
+    "discount": "17% off",
+    "realprice": 328
+  },
+  {
+    "id": "7",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/cropped/cb5w9e2ofjxis4et62vm/baidyanath-puspadhanwa-ras-tablet.png",
+    "name": "Baidyanath Vansaar Shilajit Resin",
+    "description": "bottle of 15 gm Pack",
+    "rating": 3.2,
+    "maxrating": "19 ratings",
+    "price": "₹1499",
+    "discount": "25% off",
+    "realprice": 1124
+  },
+  {
+    "id": "8",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/dxxwizplopbwahvbcbb2/baidyanath-vansaar-isabgol-psyllium-husk-powder.jpg",
+    "name": "Baidyanath Gaisantak Bati Tablet",
+    "description": "bottle of 100 tablets",
+    "rating": 4.3,
+    "maxrating": "239 ratings",
+    "price": "₹140",
+    "discount": "23% off",
+    "realprice": 108
+  },
+  {
+    "id": "9",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/d7e6d8fe-35ce-44be-84e1-d0a6b6045407/baidyanath-rhuma-massage-oil-for-muscle-joints-pain.jpeg",
+    "name": "Baidyanath Kesari Kalp Royal Chyawanprash Promotes Vitality, Strength & Stamina",
+    "description": "jar of 500 gm Paste",
+    "rating": 4.3,
+    "maxrating": "737 ratings",
+    "style__mrp-tag___2c4qA 9": "MRP",
+    "price": "₹420",
+    "discount": "22% off",
+    "realprice": 328
+  },
+  {
+    "id": "10",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/gej7hqda83rlpxvwoduo/baidyanath-shilajeet-tablet-for-vitality-stamina-tablet.jpg",
+    "name": "Baidyanath Shilajeet Tablet for Vitality & Stamina Tablet",
+    "description": "bottle of 50 tablets",
+    "rating": 4,
+    "maxrating": "205 ratings",
+    "price": "₹265",
+    "discount": "20% off",
+    "realprice": 212
+  },
+  {
+    "id": "11",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/ogypzm1jrh5y0gislnwm/baidyanath-vita-ex-gold-capsule-for-vitality-stamina.jpg",
+    "name": "Baidyanath Kamini Vidrawan Ras Keshar Yukta Tablet",
+    "description": "bottle of 10 gm Tablet",
+    "rating": 3.9,
+    "maxrating": "222 ratings",
+    "price": "₹1837",
+    "discount": "29% off",
+    "realprice": 1307
+  },
+  {
+    "id": "12",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/ttujayukq6mdk95t1aob/baidyanath-vansaar-shilajit-resin.jpg",
+    "name": "Baidyanath Vita-Ex Gold Capsule for Vitality & Stamina",
+    "description": "bottle of 20 capsules",
+    "rating": 3.5,
+    "maxrating": "137 ratings",
+    "price": "₹475",
+    "discount": "25% off",
+    "realprice": 356
+  },
+  {
+    "id": "13",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/ttujayukq6mdk95t1aob/baidyanath-vansaar-shilajit-resin.jpg",
+    "name": "Baidyanath Vansaar Shilajit Resin",
+    "description": "bottle of 15 gm Pack",
+    "rating": 3.2,
+    "maxrating": "19 ratings",
+    "price": "₹1499",
+    "discount": "25% off",
+    "realprice": 1124
+  },
+  {
+    "id": "14",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/cropped/yrlsaq5pmpkpmu0u0cqd/baidyanath-vita-ex-massage-oil.jpg",
+    "name": "Baidyanath Vita EX Massage Oil",
+    "description": "bottle of 15 ml Oil",
+    "rating": 3.4,
+    "maxrating": "689 ratings",
+    "price": "₹225",
+    "discount": "29% off",
+    "realprice": 158
+  },
+  {
+    "id": "15",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/pbpk2lkpnukeivekrhht/baidyanath-vita-ex-gold-plus-capsule.jpg",
+    "style__adBadge-text___2He6o 3": "Ad",
+    "name": "Baidyanath Vita-Ex Gold Plus Capsule",
+    "description": "strip of 20 capsules",
+    "rating": 3.4,
+    "maxrating": "236 ratings",
+    "price": "₹825",
+    "discount": "25% off",
+    "realprice": 619
+  },
+  {
+    "id": "16",
+    "images": "https://onemg.gumlet.io/images/f_auto,w_150,h_150,c_fit,q_auto/dxxwizplopbwahvbcbb2/baidyanath-vansaar-isabgol-psyllium-husk-powder.jpg",
+    "name": "Baidyanath Vansaar Isabgol Psyllium Husk Powder",
+    "description": "box of 100 gm Powder",
+    "rating": 4.5,
+    "maxrating": "521 ratings",
+    "price": "₹120",
+    "discount": "20% off",
+    "realprice": 96,
+    "style__interaction___3cb12 26": "ADD"
+  }
+]
+  
+     
+
+

@@ -8,6 +8,7 @@ import {
   VStack,
   HStack,
   Image,
+  Link,
 } from "@chakra-ui/react";
 
 const Footer = () => {
@@ -89,14 +90,14 @@ const Footer = () => {
         bgColor="#fffcf8"
         width="100%"
         height="300px"
-        border="1px solid red"
+    
       >
         <Box
           marginTop="20px"
           marginLeft="25px"
           width="70%"
           height="250px"
-          border="1px solid black"
+          
           pl={10}
           pr={20}
         >
@@ -105,14 +106,14 @@ const Footer = () => {
               <Heading mb="1rem" fontSize={{base:"25px",md:"20px", lg:"16px"}} fontWeight={{base:"600",md:"500", lg:"400"}}as="h3">
                 Know Us
               </Heading>
-              <Text color="gray.600" fontSize={{base:"20px",md:"18px", lg:"12px"}}>
+         <Link href="https://www.1mg.com/aboutUs" > <Text color="gray.600" fontSize={{base:"20px",md:"18px", lg:"12px"}}>
                 
                 About Us
-              </Text>
-              <Text color="gray.600" fontSize={{base:"20px",md:"18px", lg:"12px"}}>
+              </Text> </Link>    
+            <Link href="https://www.1mg.com/contactUs" > <Text color="gray.600" fontSize={{base:"20px",md:"18px", lg:"12px"}}>
                 
                 Contact Us
-              </Text>
+              </Text> </Link>  
               <Text color="gray.600" fontSize={{base:"20px",md:"18px", lg:"12px"}}>
                 
                 Press Coverage
@@ -203,7 +204,8 @@ const Footer = () => {
               </Text>
 
               <HStack cursor="pointer" spacing={2}>
-                <Image
+            
+                  <Image
                   boxSize="25px"
                   objectFit="cover"
                   src="https://onemg.gumlet.io/vqpr5zx9ofpsyafjwwin.svg"
@@ -213,7 +215,8 @@ const Footer = () => {
                   boxSize="25px"
                   objectFit="cover"
                   src="https://onemg.gumlet.io/wwynoy59i3iakt8te5xl.svg"
-                />
+                /> 
+               
                 <Image
                   boxSize="25px"
                   objectFit="cover"
@@ -275,7 +278,7 @@ const Footer = () => {
       </Box>
       <hr style={{ width: "85%", margin: "auto" }} />
       <Box  margin={{base:"none", md:"none",lg:"auto"}} textAlign="start" w={["50%","60%","80%"]} h="auto"  bgColor="#fffcf8">
-        <Box w="100%" h="auto" border="1px solid black" display="flex" flexDirection={{base:"column", md:"column", lg:"row", xl:"row"}} gap={2}>
+        <Box w="100%" h="auto"  display="flex" flexDirection={{base:"column", md:"column", lg:"row", xl:"row"}} gap={2}>
           <Box
             display="flex"
             

@@ -1,7 +1,22 @@
-import React from 'react';
-export const Home = () => {
+import React from 'react'
+import Navbar from '../Components/Navbar'
+import Menues from '../Components/Menues'
+import CarouselSlider from '../Components/CarouselSlider'
+import Products from '../Components/Products'
+import HomeBottom from '../Components/HomeBottom'
+import HomeProducts from '../Components/HomeProducts'
 
+export const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Navbar/>
+      <Menues />
+      <CarouselSlider/>
+      {/* <Products/> */}
+      <HomeProducts />
+      <HomeBottom/>
+    </div>
   )
 }
+
+export default Home;

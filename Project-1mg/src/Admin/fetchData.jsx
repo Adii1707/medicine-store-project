@@ -7,7 +7,7 @@ import { deletetask, getdata } from "../Redux/AdminRedux/action";
 import { updateData } from '../Redux/AdminRedux/action';
 
 export const FetchData =  () => {
-   const data = useSelector((store)=> store.Data);
+   const data = useSelector((store)=> store.Adminreducer.Data);
    const total = data?.length;
    localStorage.setItem("Total", total);
    const dispatch = useDispatch();

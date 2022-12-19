@@ -2,13 +2,15 @@ import { Button, Grid, Stack } from "@chakra-ui/react";
 import { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { DiseasesCard } from "../Components/DiSeasesComponents/DiseasesCard";
+import Menues from "../Components/Menues";
+import Navbar from "../Components/Navbar";
 import { getDiseasesData } from "../Redux/Diseases_Redux/action";
 
 
 const Diseases = () => {
   const dispatch=useDispatch()
   const diseasesData=useSelector((store)=>{
-   return store.DiseasesReducer.diseasesData
+   return store.DiseaseReducer.diseasesData
   })
   
   let arr = [
@@ -63,7 +65,8 @@ const Diseases = () => {
  
   return (
     <div>
-     
+     <Navbar />
+     <Menues />
       <Stack
         spacing={2}
         direction="row"

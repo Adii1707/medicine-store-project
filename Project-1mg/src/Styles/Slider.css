@@ -1,0 +1,19 @@
+.slick-slide {
+    padding: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.slider{
+    width: 900px;
+    height: 170px;
+}
+
+.homeSlider{
+    width: 95%;
+}
+
+.slick-arrow {
+    background-color:rgb(216, 210, 210);
+    border-radius: 50%;
+}

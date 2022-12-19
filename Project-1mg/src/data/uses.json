@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "user": "Diabetes Care"
+    },
+    {
+      "user": "Cardiac Care"
+    },
+    {
+      "user": "Stomach Care"
+    },
+    {
+      "user": "Nutritional Def"
+    },
+    {
+      "user": "Weight Manag"
+    },
+    {
+      "user": "Skin Care"
+    },
+    {
+      "user": "Liver Care"
+    },
+    {
+      "user": "kidney Care"
+    },
+    {
+      "user": "Lungs Care"
+    },
+    {
+      "user": "Diabetes Care"
+    },
+    {
+      "user": "Cardiac Care"
+    },
+    {
+      "user": "Stomach Care"
+    },
+    {
+      "user": "Nutritional Def"
+    },
+    {
+      "user": "Weight Manag"
+    }
+  ],
+
+  "discount": [
+    {
+    "discount":"Less than 10%"
+  },
+  {
+    "discount":"10% and above"
+  },
+  {
+    "discount":"20% and above"
+  },
+  {
+    "discount":"30% and above"
+  }
+ 
+]
+}

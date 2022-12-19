@@ -9,8 +9,10 @@ import {
   Stack,
   ListItem,
   UnorderedList,
+  Icon,
 } from "@chakra-ui/react";
-import {useDispatch} from "react-redux"
+import {BiPurchaseTagAlt} from "react-icons/bi"
+import { useDispatch } from "react-redux";
 import axios from "axios";
 import React, { useEffect } from "react";
 import { AiOutlineShoppingCart } from "react-icons/ai";
@@ -21,28 +23,30 @@ import { BiRupee } from "react-icons/bi";
 import Styles from "../Allcss/Product.module.css";
 import { filtergetdata } from "../Redux/Product_Redux/action";
 const SingleProduct = () => {
- const dispatch=useDispatch()
+  const dispatch = useDispatch();
   const [store, setStore] = useState({});
   const [count, setCount] = useState(0);
-
+const [local,setLocal]=useState([])
   const { user_id } = useParams();
   localStorage.setItem("flag", false);
   function Addtocart(e) {
- dispatch(filtergetdata())
+    dispatch(filtergetdata());
+    setLocal([...local,store])
+    localStorage.setItem("data",JSON.stringify(local))
   }
-  
- 
+
   useEffect(() => {
     axios
       .get(`https://json-mock-cp-cl1n.onrender.com/products/${user_id}`)
       .then((res) => {
         setStore(res.data);
+      
       })
       .catch((err) => {
         alert("error");
       });
   }, []);
-
+console.log("i am local",local);
   return (
     <div>
       <>
@@ -225,18 +229,26 @@ const SingleProduct = () => {
               marginTop="30px"
               width="100%"
               float="right"
-              onClick={()=>{setCount(count+1);Addtocart()}}
+              onClick={() => {
+                setCount(count + 1);
+                Addtocart();
+              }}
             >
               ADD TO CART
             </Button>
           </Box>
         </Box>
+          <Image float="right" marginRight="90px" src="https://onemg.gumlet.io/1da42959-d90d-47f7-b229-bba0eb4cefe1_1667973859.png?w=337&h=77&format=auto" /><br/><br/><br/>
+          
+          <Box border="1px dashed #979797" display="flex" alignItems="center" width="28%" margin="20px 90px 0px 0px" padding="10px" float="right" marginRight="90px">
+        <Box fontSize="20px"> <Icon as={BiPurchaseTagAlt} backgroundColor="#1aab2a" color="white"/></Box>   
+      <h1 style={{fontSize:"14px", lineHeight:"25px", color:"#212121"}}><span style={{fontWeight:"700"}}>Paytm Wallet:</span> Pay with Paytm wallet on Tata 1mg for ₹599 or more and get 3000 cashback points. Offer ends 31st December 2022.</h1>
+          </Box>
         <Box position="relative">
           {" "}
           <AiOutlineShoppingCart />
         </Box>
         <Box position="absolute">{count}</Box>
-
       </>
     </div>
   );

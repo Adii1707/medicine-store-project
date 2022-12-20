@@ -10,6 +10,7 @@ import SingleProduct from "../Pages/SingleProduct";
 import Productpage1 from "../Pages/Productpage1";
 import {Diseases} from "../Pages/Diseases";
 import {Medicine} from "../Pages/Medicine";
+import { Checkout } from '../Checkout/Checkout';
 
 export const AllRoutes = () => {
   return (
@@ -23,7 +24,7 @@ export const AllRoutes = () => {
     <Route path="/singleproduct/:user_id" element={<SingleProduct />}></Route>
     <Route path="/disease" element={<Diseases ></Diseases>} ></Route>
     <Route path="/medicine" element={<Medicine ></Medicine>} ></Route>
-
+    <Route path="/Checkout" element={<Checkout ></Checkout>} ></Route>
     </Routes>
   )
 }
